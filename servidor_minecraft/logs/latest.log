@@ -262,3 +262,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [17Jul2025 20:58:09.373] [Server thread/INFO] [superlord.prehistoricfauna.common.recipes.PaleontologyTableRecipeJsonManager/]: Registered 3 jsons with items!
 [17Jul2025 20:59:09.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xUNIx10[/127.211.36.91:46159] logged in with entity id 113 at (99.39217450859573, 57.0, 81.86330819009873)
 [17Jul2025 20:59:09.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 joined the game
+[17Jul2025 21:12:51.857] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:37207] logged in with entity id 5833 at (707.3000000119209, 37.0, -42.69999998807907)
+[17Jul2025 21:12:51.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
+[17Jul2025 21:14:16.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=161, y=13, z=-404} BlockPos{x=161, y=12, z=-406}
+[17Jul2025 21:14:16.794] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=161, y=13, z=-404} BlockPos{x=161, y=12, z=-406}
+[17Jul2025 21:14:41.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=166, y=14, z=-404} BlockPos{x=166, y=14, z=-405}
+[17Jul2025 21:15:08.746] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=14, z=-379} BlockPos{x=162, y=13, z=-380}
+[17Jul2025 21:16:16.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=158, y=14, z=-403} BlockPos{x=157, y=14, z=-403}
+[17Jul2025 21:17:47.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> on tas
+[17Jul2025 21:17:56.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wacht_Of_Doom> esondido
+[17Jul2025 21:18:01.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> ok
+[17Jul2025 21:18:10.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> la isla champiñon es mia he
+[17Jul2025 21:18:15.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wacht_Of_Doom> que
+[17Jul2025 21:18:47.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> ando buscando netherita
