@@ -2532,3 +2532,63 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [17Jul2025 23:04:23.514] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [17Jul2025 23:08:09.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Jul2025 23:08:09.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 23:11:06.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom fell from a high place
+[17Jul2025 23:11:06.910] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(574, -51, -248) minecraft:overworld
+[17Jul2025 23:11:42.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom fell from a high place
+[17Jul2025 23:11:42.858] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(575, -51, -244) minecraft:overworld
+[17Jul2025 23:11:46.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was obliterated by a sonically-charged shriek
+[17Jul2025 23:11:46.938] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(567, -25, -243) minecraft:overworld
+[17Jul2025 23:12:18.202] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 23:12:18.203] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 23:12:18.203] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 emerald_stoneplate_ring
+[17Jul2025 23:12:18.203] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[17Jul2025 23:12:18.203] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 23:12:18.203] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 23:12:18.204] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[17Jul2025 23:12:18.204] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[17Jul2025 23:13:09.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 23:13:09.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 23:13:42.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom's life was severed by xUNIx10
+[17Jul2025 23:14:20.044] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:20.044] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:20.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:20.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:20.538] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:20.538] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:20.789] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:20.789] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:21.041] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:21.041] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:21.286] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:21.286] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:21.543] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:21.543] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:21.790] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:21.790] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:22.041] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:22.041] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:22.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:22.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:22.537] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:22.538] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:22.792] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:22.792] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:23.039] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:23.039] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:23.289] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:14:23.289] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Jul2025 23:15:29.115] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 23:16:14.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom fell from a high place
+[17Jul2025 23:16:14.555] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(582, -51, -245) minecraft:overworld
+[17Jul2025 23:16:53.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was doomed to fall by Warden
+[17Jul2025 23:16:53.353] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(585, -51, -243) minecraft:overworld
+[17Jul2025 23:16:55.911] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 23:17:22.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom was obliterated by a sonically-charged shriek
+[17Jul2025 23:17:22.285] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(582, -30, -245) minecraft:overworld
+[17Jul2025 23:18:00.152] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 23:18:09.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 23:18:09.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 23:19:58.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was obliterated by a sonically-charged shriek
+[17Jul2025 23:19:58.039] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(588, -36, -240) minecraft:overworld
+[17Jul2025 23:20:45.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom was slain by Warden
+[17Jul2025 23:20:45.338] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(586, -51, -243) minecraft:overworld
