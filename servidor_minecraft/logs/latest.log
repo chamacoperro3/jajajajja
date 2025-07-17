@@ -350,3 +350,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [17Jul2025 22:56:47.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Junior Summoner]
 [17Jul2025 22:57:58.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Good Demoman]
 [17Jul2025 22:57:58.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom moved too quickly! -5.57407338048796,1.127890238205488,-8.381258346950432
+[17Jul2025 23:01:25.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom moved too quickly! -6.992648920118086,-0.36809686001799236,7.56365691670706
+[17Jul2025 23:01:52.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom was slain by Warden
+[17Jul2025 23:01:52.442] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(428, -49, -164) minecraft:overworld
+[17Jul2025 23:04:23.514] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
