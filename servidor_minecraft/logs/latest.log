@@ -382,3 +382,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [17Jul2025 23:19:58.039] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(588, -36, -240) minecraft:overworld
 [17Jul2025 23:20:45.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom was slain by Warden
 [17Jul2025 23:20:45.338] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(586, -51, -243) minecraft:overworld
+[17Jul2025 23:21:17.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by Warden
+[17Jul2025 23:21:17.042] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(597, -51, -236) minecraft:overworld
+[17Jul2025 23:21:50.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom fell from a high place
+[17Jul2025 23:23:55.346] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[17Jul2025 23:23:55.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[17Jul2025 23:24:49.387] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/54318, l='ServerLevel[world]', x=267.83, y=72.00, z=834.67] died, message: 'Shepherd cooked in zilasaur's fiery field'
+[17Jul2025 23:24:58.536] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/54305, l='ServerLevel[world]', x=295.87, y=63.00, z=836.30] died, message: 'Nitwit was slain by Zombie'
+[17Jul2025 23:25:04.388] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/54284, l='ServerLevel[world]', x=298.70, y=63.00, z=836.70] died, message: 'Villager was slain by Zombie'
+[17Jul2025 23:25:10.986] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/54407, l='ServerLevel[world]', x=297.51, y=63.00, z=836.70] died, message: 'Villager was slain by Zombie'
+[17Jul2025 23:25:13.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has reached the goal [Exorcism]
+[17Jul2025 23:25:13.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Life turned out to be a comedy]
+[17Jul2025 23:25:15.490] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/54299, l='ServerLevel[world]', x=295.30, y=63.00, z=836.30] died, message: 'Nitwit was slain by Zombie Villager'
+[17Jul2025 23:27:26.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was mauled by Necromancer's undead
+[17Jul2025 23:27:26.341] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(336, 65, 834) minecraft:overworld
+[17Jul2025 23:28:37.100] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 23:28:37.101] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 23:28:37.101] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[17Jul2025 23:28:37.101] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[17Jul2025 23:29:58.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by Zombie
+[17Jul2025 23:29:58.138] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(645, 71, -294) minecraft:overworld
+[17Jul2025 23:30:34.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by Fallen Chaos Knight
+[17Jul2025 23:35:18.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 tried to swim in lava
+[17Jul2025 23:35:59.620] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 23:35:59.620] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 23:35:59.621] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 frostward_ring
+[17Jul2025 23:35:59.621] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[17Jul2025 23:35:59.621] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 23:35:59.621] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 23:35:59.621] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[17Jul2025 23:35:59.622] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[17Jul2025 23:36:47.490] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 lost connection: Disconnected
+[17Jul2025 23:36:47.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
+[17Jul2025 23:39:29.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xUNIx10[/127.211.36.91:40817] logged in with entity id 78235 at (549.0600741555121, 37.0, -170.57048948862086)
+[17Jul2025 23:39:29.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 joined the game
