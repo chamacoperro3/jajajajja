@@ -277,3 +277,66 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [17Jul2025 21:18:47.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> ando buscando netherita
 [17Jul2025 21:37:41.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> como vas
 [17Jul2025 21:37:47.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wacht_Of_Doom> masomenos
+[17Jul2025 21:40:23.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 tried to swim in lava
+[17Jul2025 21:40:23.156] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(81, 14, -287) minecraft:the_nether
+[17Jul2025 21:40:29.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> xd
+[17Jul2025 21:42:18.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> dario
+[17Jul2025 21:42:26.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> quieres venir a una dungeon del nether
+[17Jul2025 21:43:20.360] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 21:43:20.360] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 21:43:20.361] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 emerald_stoneplate_ring
+[17Jul2025 21:43:20.361] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[17Jul2025 21:43:20.361] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 21:43:20.361] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 21:43:20.362] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[17Jul2025 21:43:20.362] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[17Jul2025 21:47:12.008] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zilasaur[/127.211.36.91:53977] logged in with entity id 28223 at (246.79111448208522, 63.0, 843.7175189004206)
+[17Jul2025 21:47:12.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur joined the game
+[17Jul2025 21:47:13.612] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/28325, l='ServerLevel[world]', x=322.27, y=67.00, z=833.58]
+[17Jul2025 21:49:09.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> duerme
+[17Jul2025 21:49:55.748] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28260, l='ServerLevel[world]', x=298.29, y=63.00, z=836.70] died, message: 'Villager was slain by Zombie'
+[17Jul2025 21:50:01.799] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/28262, l='ServerLevel[world]', x=298.70, y=63.00, z=836.70] died, message: 'Farmer was slain by Zombie Villager'
+[17Jul2025 21:55:29.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Cover Me with Diamonds]
+[17Jul2025 21:59:59.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Where the Monstrous be Forged]
+[17Jul2025 22:01:48.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Straddle My Ol' Saddle]
+[17Jul2025 22:03:28.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom has made the advancement [Sneak 100]
+[17Jul2025 22:03:54.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Digger Man]
+[17Jul2025 22:04:02.638] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/28241, l='ServerLevel[world]', x=297.34, y=63.00, z=836.70] died, message: 'Leatherworker was slain by Zombie Villager'
+[17Jul2025 22:05:20.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom has made the advancement [Deceived Hopes]
+[17Jul2025 22:06:28.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Who is Cutting Onions?]
+[17Jul2025 22:09:38.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by Gremlin
+[17Jul2025 22:09:38.800] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(96, 51, 70) minecraft:the_nether
+[17Jul2025 22:10:16.250] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 22:10:16.250] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 22:10:16.250] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 frostward_ring
+[17Jul2025 22:10:16.251] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[17Jul2025 22:10:16.251] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 22:10:16.251] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 22:10:16.251] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[17Jul2025 22:10:16.252] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[17Jul2025 22:11:11.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wacht_Of_Doom> 565 -24 -39
+[17Jul2025 22:11:29.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wacht_Of_Doom> 565 -24 -239
+[17Jul2025 22:15:09.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom was obliterated by a sonically-charged shriek
+[17Jul2025 22:15:09.749] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(585, -50, -238) minecraft:overworld
+[17Jul2025 22:18:41.758] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=859, y=72, z=1190} BlockPos{x=859, y=71, z=1189}
+[17Jul2025 22:18:41.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=859, y=72, z=1190} BlockPos{x=859, y=71, z=1189}
+[17Jul2025 22:18:41.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=859, y=72, z=1190} BlockPos{x=859, y=71, z=1189}
+[17Jul2025 22:18:41.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=859, y=72, z=1190} BlockPos{x=859, y=71, z=1189}
+[17Jul2025 22:18:41.955] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=859, y=72, z=1190} BlockPos{x=859, y=71, z=1189}
+[17Jul2025 22:18:42.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=859, y=72, z=1190} BlockPos{x=859, y=71, z=1189}
+[17Jul2025 22:20:33.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom was slain by Warden
+[17Jul2025 22:20:33.143] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(586, -51, -250) minecraft:overworld
+[17Jul2025 22:21:15.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Dark Forging]
+[17Jul2025 22:21:31.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Deceived Hopes]
+[17Jul2025 22:23:00.201] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 22:26:54.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom burned to death
+[17Jul2025 22:26:54.905] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(614, -51, -281) minecraft:overworld
+[17Jul2025 22:32:23.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Enderman
+[17Jul2025 22:32:23.240] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(249, 19, 766) minecraft:overworld
+[17Jul2025 22:33:40.519] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 22:38:17.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom was slain by Warden
+[17Jul2025 22:38:17.791] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(631, -44, -157) minecraft:overworld
+[17Jul2025 22:39:32.601] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 22:39:32.602] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 22:39:32.602] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[17Jul2025 22:39:32.602] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack

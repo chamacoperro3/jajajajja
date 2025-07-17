@@ -96,6 +96,8 @@
       "minecraft:grove": "2025-07-17 00:13:33 +0000",
       "minecraft:forest": "2025-07-17 00:07:19 +0000",
       "minecraft:lush_caves": "2025-07-16 23:47:10 +0000",
+      "minecraft:frozen_peaks": "2025-07-17 22:03:29 +0000",
+      "minecraft:deep_dark": "2025-07-17 22:03:39 +0000",
       "minecraft:meadow": "2025-07-17 00:11:32 +0000",
       "minecraft:plains": "2025-07-17 00:10:29 +0000"
     },
@@ -538,8 +540,10 @@
       "cooked_mutton": "2025-07-17 00:00:14 +0000",
       "cooked_beef": "2025-07-17 00:47:16 +0000",
       "porkchop": "2025-07-17 00:39:07 +0000",
+      "mutton": "2025-07-17 22:05:39 +0000",
       "bread": "2025-07-17 00:52:16 +0000",
-      "glow_berries": "2025-07-16 23:47:21 +0000"
+      "glow_berries": "2025-07-16 23:47:21 +0000",
+      "mushroom_stew": "2025-07-17 22:28:53 +0000"
     },
     "done": false
   },
@@ -2317,9 +2321,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-17 22:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-07-17 22:33:59 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/polar_leggings": {
     "criteria": {
       "has_snowball": "2025-07-17 21:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2025-07-17 22:28:50 +0000"
     },
     "done": true
   },
@@ -2335,9 +2357,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-07-17 22:33:59 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-07-17 22:05:20 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/polar_helmet": {
     "criteria": {
       "has_snowball": "2025-07-17 21:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-07-17 22:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-07-17 22:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-07-17 22:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-07-17 22:28:50 +0000"
     },
     "done": true
   },
