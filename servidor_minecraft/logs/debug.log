@@ -2511,3 +2511,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [17Jul2025 22:49:31.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom was obliterated by a sonically-charged shriek
 [17Jul2025 22:49:31.986] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(634, -43, -71) minecraft:overworld
 [17Jul2025 22:49:34.404] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[17Jul2025 22:50:57.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom was slain by Warden
+[17Jul2025 22:51:33.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Ice Bucket Challenge]
+[17Jul2025 22:53:09.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 22:53:09.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 22:54:24.707] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 22:55:16.195] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[17Jul2025 22:56:47.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Junior Summoner]
+[17Jul2025 22:57:58.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Good Demoman]
+[17Jul2025 22:57:58.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom moved too quickly! -5.57407338048796,1.127890238205488,-8.381258346950432
+[17Jul2025 22:58:09.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 22:58:09.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 22:59:00.652] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[17Jul2025 23:00:09.404] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
