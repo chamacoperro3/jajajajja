@@ -340,3 +340,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [17Jul2025 22:39:32.602] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [17Jul2025 22:39:32.602] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
 [17Jul2025 22:39:32.602] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[17Jul2025 22:43:23.008] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 22:46:50.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved too quickly! 2.984959445584124,-10.342366735053565,1.045145328964054
+[17Jul2025 22:49:31.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom was obliterated by a sonically-charged shriek
+[17Jul2025 22:49:31.986] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(634, -43, -71) minecraft:overworld
