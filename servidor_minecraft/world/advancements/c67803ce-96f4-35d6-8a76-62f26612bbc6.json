@@ -2311,5 +2311,41 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/polar_boots": {
+    "criteria": {
+      "has_snowball": "2025-07-17 21:37:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/polar_leggings": {
+    "criteria": {
+      "has_snowball": "2025-07-17 21:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-07-17 21:37:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/polar_chestplate": {
+    "criteria": {
+      "has_snowball": "2025-07-17 21:37:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/polar_helmet": {
+    "criteria": {
+      "has_snowball": "2025-07-17 21:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-07-17 21:37:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
