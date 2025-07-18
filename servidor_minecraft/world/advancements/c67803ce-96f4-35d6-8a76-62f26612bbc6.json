@@ -99,6 +99,9 @@
       "minecraft:forest": "2025-07-17 00:07:19 +0000",
       "minecraft:lush_caves": "2025-07-16 23:47:10 +0000",
       "minecraft:deep_cold_ocean": "2025-07-18 00:43:54 +0000",
+      "minecraft:frozen_ocean": "2025-07-18 00:51:14 +0000",
+      "minecraft:deep_frozen_ocean": "2025-07-18 00:49:42 +0000",
+      "minecraft:snowy_beach": "2025-07-18 00:51:24 +0000",
       "minecraft:frozen_peaks": "2025-07-17 22:03:29 +0000",
       "minecraft:deep_dark": "2025-07-17 22:03:39 +0000",
       "minecraft:meadow": "2025-07-17 00:11:32 +0000",
@@ -2506,15 +2509,87 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/warlord_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-18 00:59:32 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_blue_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-18 00:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-18 00:59:32 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_blue_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-18 00:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-18 00:59:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:basalt_deltas": "2025-07-18 00:45:37 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-18 00:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-18 00:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-18 00:59:32 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-07-18 00:49:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-07-18 00:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-18 00:59:32 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-07-18 01:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-18 00:59:32 +0000"
     },
     "done": true
   },
@@ -2524,15 +2599,93 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bamboo_blue_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-18 00:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-18 00:59:32 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/warlord_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-18 00:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-18 00:59:32 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/warlord_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-18 00:59:32 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/warlord_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-18 00:59:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-07-18 00:45:37 +0000"
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-07-18 00:48:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_blue_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-18 00:59:32 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-07-18 00:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-18 00:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-18 00:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-18 00:59:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_the_recipe": "2025-07-18 00:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-18 00:59:32 +0000"
     },
     "done": true
   },
