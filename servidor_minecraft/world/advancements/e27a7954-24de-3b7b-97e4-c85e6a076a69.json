@@ -825,6 +825,7 @@
       "minecraft:magma_cube": "2025-07-17 22:03:15 +0000",
       "minecraft:spider": "2025-07-16 23:17:24 +0000",
       "minecraft:creeper": "2025-07-17 00:52:13 +0000",
+      "minecraft:phantom": "2025-07-18 06:43:37 +0000",
       "minecraft:witch": "2025-07-18 05:11:21 +0000",
       "minecraft:silverfish": "2025-07-17 03:33:54 +0000",
       "minecraft:zombie": "2025-07-16 22:48:01 +0000",
@@ -4957,6 +4958,18 @@
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-07-18 06:30:24 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_cloud_golem": {
+    "criteria": {
+      "cloud_golem": "2025-07-18 06:42:27 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-07-18 06:41:58 +0000"
     },
     "done": true
   },
