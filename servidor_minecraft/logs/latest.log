@@ -282,3 +282,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [18Jul2025 07:09:02.041] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 cast_time_ring
 [18Jul2025 07:09:02.042] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 cast_time_ring
 [18Jul2025 07:10:35.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[18Jul2025 07:14:01.662] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19, l='ServerLevel[world]', x=25.53, y=60.00, z=-40.50] died, message: 'Villager discovered the floor was lava'
