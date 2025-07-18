@@ -1,32 +1,32 @@
-[18Jul2025 07:02:43.012] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[18Jul2025 07:02:43.015] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[18Jul2025 07:02:43.997] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[18Jul2025 07:02:44.052] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/jajajajja/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[18Jul2025 07:02:44.343] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jajajajja/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[18Jul2025 07:02:44.345] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jajajajja/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[18Jul2025 07:02:44.346] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jajajajja/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[18Jul2025 07:02:44.347] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jajajajja/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[18Jul2025 07:02:44.535] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[18Jul2025 07:02:46.663] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[18Jul2025 07:02:46.767] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[18Jul2025 07:02:46.821] [main/WARN] [mixin/]: Reference map 'knightquest.refmap.json' for knightquest.mixins.json could not be read. If this is a development environment you can ignore this message
-[18Jul2025 07:02:46.823] [main/WARN] [mixin/]: Reference map 'knightquest.refmap.json' for knightquest.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[18Jul2025 07:02:46.927] [main/WARN] [mixin/]: Reference map 'knightlib.refmap.json' for knightlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[18Jul2025 07:02:46.929] [main/WARN] [mixin/]: Reference map 'knightlib.refmap.json' for knightlib.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[18Jul2025 07:02:46.942] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
-[18Jul2025 07:02:47.707] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER
-[18Jul2025 07:02:47.708] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/Gui (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER)
-[18Jul2025 07:02:47.708] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.Gui was not found mixins.prehistoricfauna.json:GuiMixin
-[18Jul2025 07:02:47.767] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/mojang/blaze3d/vertex/VertexFormat$Mode for invalid dist DEDICATED_SERVER
-[18Jul2025 07:02:47.768] [main/WARN] [mixin/]: Error loading class: com/mojang/blaze3d/vertex/VertexFormat$Mode (java.lang.RuntimeException: Attempted to load class com/mojang/blaze3d/vertex/VertexFormat$Mode for invalid dist DEDICATED_SERVER)
-[18Jul2025 07:02:47.788] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[18Jul2025 07:02:55.067] [modloading-worker-0/INFO] [hammered/]: Initializing...
-[18Jul2025 07:02:55.128] [modloading-worker-0/INFO] [hammered/]: Registered Items.
-[18Jul2025 07:02:55.134] [modloading-worker-0/INFO] [hammered/]: Registered Enchantments.
-[18Jul2025 07:02:55.134] [modloading-worker-0/INFO] [hammered/]: Registered Villager Trades.
-[18Jul2025 07:02:55.134] [modloading-worker-0/INFO] [hammered/]: Initialized
-[18Jul2025 07:02:55.320] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@7c52fc81 on thread Thread[modloading-worker-0,5,main]
-[18Jul2025 07:02:55.321] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[18Jul2025 21:57:39.773] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[18Jul2025 21:57:39.777] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[18Jul2025 21:57:40.740] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[18Jul2025 21:57:40.805] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/jajajajja/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[18Jul2025 21:57:41.152] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jajajajja/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[18Jul2025 21:57:41.154] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jajajajja/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[18Jul2025 21:57:41.155] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jajajajja/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[18Jul2025 21:57:41.157] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jajajajja/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[18Jul2025 21:57:41.389] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[18Jul2025 21:57:43.626] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[18Jul2025 21:57:43.725] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[18Jul2025 21:57:43.815] [main/WARN] [mixin/]: Reference map 'knightquest.refmap.json' for knightquest.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Jul2025 21:57:43.817] [main/WARN] [mixin/]: Reference map 'knightquest.refmap.json' for knightquest.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Jul2025 21:57:43.939] [main/WARN] [mixin/]: Reference map 'knightlib.refmap.json' for knightlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Jul2025 21:57:43.941] [main/WARN] [mixin/]: Reference map 'knightlib.refmap.json' for knightlib.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Jul2025 21:57:43.954] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Jul2025 21:57:44.872] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER
+[18Jul2025 21:57:44.873] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/Gui (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER)
+[18Jul2025 21:57:44.873] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.Gui was not found mixins.prehistoricfauna.json:GuiMixin
+[18Jul2025 21:57:44.930] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/mojang/blaze3d/vertex/VertexFormat$Mode for invalid dist DEDICATED_SERVER
+[18Jul2025 21:57:44.930] [main/WARN] [mixin/]: Error loading class: com/mojang/blaze3d/vertex/VertexFormat$Mode (java.lang.RuntimeException: Attempted to load class com/mojang/blaze3d/vertex/VertexFormat$Mode for invalid dist DEDICATED_SERVER)
+[18Jul2025 21:57:44.947] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[18Jul2025 21:57:52.122] [modloading-worker-0/INFO] [hammered/]: Initializing...
+[18Jul2025 21:57:52.162] [modloading-worker-0/INFO] [hammered/]: Registered Items.
+[18Jul2025 21:57:52.167] [modloading-worker-0/INFO] [hammered/]: Registered Enchantments.
+[18Jul2025 21:57:52.170] [modloading-worker-0/INFO] [hammered/]: Registered Villager Trades.
+[18Jul2025 21:57:52.171] [modloading-worker-0/INFO] [hammered/]: Initialized
+[18Jul2025 21:57:52.412] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@7c52fc81 on thread Thread[modloading-worker-0,5,main]
+[18Jul2025 21:57:52.412] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
@@ -74,17 +74,18 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[18Jul2025 07:02:55.327] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[18Jul2025 07:02:56.359] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[18Jul2025 07:02:56.406] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[18Jul2025 07:02:56.428] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[18Jul2025 07:02:56.428] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[18Jul2025 07:02:56.472] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[18Jul2025 07:02:56.473] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[18Jul2025 07:02:57.338] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@6a85a13 has been registered twice for the same name treechop:chop_wood.
-[18Jul2025 07:03:00.377] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[18Jul2025 07:03:01.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[18Jul2025 07:03:01.341] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[18Jul2025 21:57:52.424] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[18Jul2025 21:57:53.672] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[18Jul2025 21:57:53.736] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[18Jul2025 21:57:53.767] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[18Jul2025 21:57:53.767] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[18Jul2025 21:57:53.826] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[18Jul2025 21:57:53.827] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[18Jul2025 21:57:54.726] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@5c7673b8 has been registered twice for the same name treechop:chop_wood.
+[18Jul2025 21:57:57.637] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[18Jul2025 21:57:58.303] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[18Jul2025 21:57:58.626] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[18Jul2025 21:57:58.712] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -99,13 +100,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[18Jul2025 07:03:01.343] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[18Jul2025 07:03:01.374] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
-[18Jul2025 07:03:01.597] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[18Jul2025 07:03:01.600] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Starting version check at https://raw.githubusercontent.com/Lothrazar/SimpleTomb/trunk/1.20/update.json
-[18Jul2025 07:03:01.614] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Found status: BETA Current: 1.20.1-1.3.0 Target: 1.3.0
-[18Jul2025 07:03:01.616] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
-[18Jul2025 07:03:01.630] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[18Jul2025 21:57:58.715] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[18Jul2025 21:57:59.000] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[18Jul2025 21:57:59.000] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Starting version check at https://raw.githubusercontent.com/Lothrazar/SimpleTomb/trunk/1.20/update.json
+[18Jul2025 21:57:59.015] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Found status: BETA Current: 1.20.1-1.3.0 Target: 1.3.0
+[18Jul2025 21:57:59.019] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[18Jul2025 21:57:59.145] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -120,15 +120,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[18Jul2025 07:03:03.744] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18Jul2025 07:03:05.577] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/jajajajja/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/assets/.mcassetsroot' uses unexpected schema
-[18Jul2025 07:03:05.577] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/jajajajja/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/data/.mcassetsroot' uses unexpected schema
-[18Jul2025 07:03:07.214] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[18Jul2025 07:03:07.333] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.9.4 MC 1.20.1.jar)
-[18Jul2025 07:03:08.153] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[18Jul2025 07:03:08.154] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[18Jul2025 07:03:08.154] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[18Jul2025 07:03:08.230] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
+[18Jul2025 21:58:01.008] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18Jul2025 21:58:02.864] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/jajajajja/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/assets/.mcassetsroot' uses unexpected schema
+[18Jul2025 21:58:02.865] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/jajajajja/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/data/.mcassetsroot' uses unexpected schema
+[18Jul2025 21:58:04.385] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[18Jul2025 21:58:04.487] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.9.4 MC 1.20.1.jar)
+[18Jul2025 21:58:05.205] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[18Jul2025 21:58:05.205] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[18Jul2025 21:58:05.205] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[18Jul2025 21:58:05.261] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -166,7 +166,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dr
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[18Jul2025 07:03:08.236] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
+[18Jul2025 21:58:05.265] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -195,7 +195,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[18Jul2025 07:03:08.243] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
+[18Jul2025 21:58:05.270] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23170!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23170!/:?]
@@ -228,284 +228,50 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[18Jul2025 07:03:08.268] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
-[18Jul2025 07:03:08.312] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement knightquest:recipes/misc/empty_goblet: Missing criteria, expected to find a JsonObject
-[18Jul2025 07:03:08.410] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2198 advancements
-[18Jul2025 07:03:08.429] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
-[18Jul2025 07:03:08.435] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[18Jul2025 07:03:08.452] [main/INFO] [superlord.prehistoricfauna.common.recipes.PaleontologyTableRecipeJsonManager/]: Data loader for prehistoricfauna/paleontology_table loaded 3 jsons
-[18Jul2025 07:03:08.487] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[18Jul2025 07:03:10.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[18Jul2025 07:03:10.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[18Jul2025 07:03:10.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[18Jul2025 07:03:10.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[18Jul2025 07:03:10.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[18Jul2025 07:03:10.412] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[18Jul2025 07:03:10.486] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18Jul2025 07:03:10.487] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[18Jul2025 07:03:10.487] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18Jul2025 07:03:10.487] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[18Jul2025 07:03:10.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[18Jul2025 07:03:13.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[18Jul2025 07:03:16.761] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Jul2025 07:03:16.790] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Jul2025 07:03:16.812] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Jul2025 07:03:16.824] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Jul2025 07:03:16.840] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Jul2025 07:03:16.857] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Jul2025 07:03:16.871] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Jul2025 07:03:17.345] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Jul2025 07:03:17.981] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Jul2025 07:03:18.504] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Jul2025 07:03:18.845] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Jul2025 07:03:19.345] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
-[18Jul2025 07:03:19.713] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5868 ms
-[18Jul2025 07:03:19.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.212s)! For help, type "help"
-[18Jul2025 07:03:19.754] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[18Jul2025 07:03:19.755] [Server thread/INFO] [superlord.prehistoricfauna.common.recipes.PaleontologyTableRecipeJsonManager/]: Registered 3 jsons with items!
-[18Jul2025 07:03:29.815] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xUNIx10[/127.211.36.91:59199] logged in with entity id 109 at (-2075.300000011921, 90.79673560066871, -1402.69246161641)
-[18Jul2025 07:03:29.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 joined the game
-[18Jul2025 07:03:31.990] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2235ms or 44 ticks behind
-[18Jul2025 07:03:49.989] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zilasaur[/127.211.36.91:36747] logged in with entity id 311 at (-2074.6266655870845, 103.0625, -1416.831632401423)
-[18Jul2025 07:03:49.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur joined the game
-[18Jul2025 07:07:36.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
-[18Jul2025 07:08:52.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by Cumulonimbus
-[18Jul2025 07:08:52.225] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2149, 144, -1002) minecraft:overworld
-[18Jul2025 07:09:02.037] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 07:09:02.037] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 07:09:02.037] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 cast_time_ring
-[18Jul2025 07:09:02.038] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
-[18Jul2025 07:09:02.039] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 07:09:02.039] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 07:09:02.040] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 07:09:02.040] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 07:09:02.041] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 cast_time_ring
-[18Jul2025 07:09:02.042] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 cast_time_ring
-[18Jul2025 07:10:35.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
-[18Jul2025 07:14:01.662] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19, l='ServerLevel[world]', x=25.53, y=60.00, z=-40.50] died, message: 'Villager discovered the floor was lava'
-[18Jul2025 07:25:53.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has reached the goal [Fighting Nightmares]
-[18Jul2025 07:26:42.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Vex
-[18Jul2025 07:26:42.872] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2123, 125, -1049) minecraft:overworld
-[18Jul2025 07:27:24.088] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 07:27:24.088] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 07:27:24.089] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 07:27:24.089] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 07:27:24.089] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 07:30:32.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved wrongly!
-[18Jul2025 07:33:53.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has reached the goal [Senior Summoner]
-[18Jul2025 07:48:10.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was doomed to fall
-[18Jul2025 07:48:10.898] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2114, 127, -1080) minecraft:overworld
-[18Jul2025 07:48:45.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [A Terrifying Entrance]
-[18Jul2025 07:48:46.047] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 07:48:46.048] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 07:48:46.048] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 07:48:46.048] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 07:48:46.049] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 07:52:46.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
-[18Jul2025 07:55:48.759] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/18, l='ServerLevel[world]', x=25.52, y=60.00, z=-40.50] died, message: 'Nitwit discovered the floor was lava'
-[18Jul2025 08:01:52.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [A Terrifying Entrance]
-[18Jul2025 08:03:00.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Undead Guard]
-[18Jul2025 08:03:08.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Living Armor]
-[18Jul2025 08:03:10.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Haunted Guard
-[18Jul2025 08:03:10.114] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1882, 96, -593) minecraft:overworld
-[18Jul2025 08:03:27.419] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 08:03:27.420] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 08:03:27.420] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 08:03:27.420] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 08:03:27.421] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 08:04:18.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Living Armor]
-[18Jul2025 08:05:32.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Possessed Paladin
-[18Jul2025 08:05:32.515] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1879, 86, -620) minecraft:overworld
-[18Jul2025 08:05:52.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved too quickly! -3.7926542675882047,-10.0,-10.158331520386128
-[18Jul2025 08:05:59.333] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 08:05:59.333] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 08:05:59.334] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 08:05:59.334] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 08:05:59.334] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 08:06:28.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has completed the challenge [The Fallen Knight]
-[18Jul2025 08:09:31.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
-[18Jul2025 08:13:14.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! -8.851763421725991,14.68721371213067,-2.7671628671602093
-[18Jul2025 08:13:14.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of zilasaur) moved too quickly! -9.23125943029163,-2.4908530917855387E-6,3.8680920416737763
-[18Jul2025 08:13:14.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of zilasaur) moved too quickly! -9.775722594059971,-2.6292338191069575E-6,4.0321440044068595
-[18Jul2025 08:15:37.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Jail of Cold]
-[18Jul2025 08:15:52.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
-[18Jul2025 08:17:41.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Jail of Cold]
-[18Jul2025 08:25:22.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has reached the goal [Seafood]
-[18Jul2025 08:25:44.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was cursed by Maledictus
-[18Jul2025 08:25:44.565] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1109, 56, -985) minecraft:overworld
-[18Jul2025 08:25:53.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was cursed by Maledictus
-[18Jul2025 08:25:53.865] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1099, 55, -978) minecraft:overworld
-[18Jul2025 08:28:05.342] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 08:28:05.342] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 08:28:05.343] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 emerald_stoneplate_ring
-[18Jul2025 08:28:05.343] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
-[18Jul2025 08:28:05.343] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 08:28:05.343] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 08:28:05.344] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 08:28:05.344] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 08:28:05.344] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 08:28:14.604] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 08:28:14.604] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 08:28:14.604] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 08:28:14.605] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 08:28:14.605] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 08:29:38.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was cursed by Maledictus 's Magic
-[18Jul2025 08:29:38.969] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1096, 57, -960) minecraft:overworld
-[18Jul2025 08:29:40.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Spooky Scary Skeleton]
-[18Jul2025 08:30:07.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by Maledictus
-[18Jul2025 08:30:07.265] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1098, 55, -989) minecraft:overworld
-[18Jul2025 08:30:46.690] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 08:30:46.690] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 08:30:46.690] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 08:30:46.691] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 08:30:46.691] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 08:31:34.788] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 08:31:34.789] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 08:31:34.789] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 cast_time_ring
-[18Jul2025 08:31:34.789] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
-[18Jul2025 08:31:34.789] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 08:31:34.789] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 08:31:34.790] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 08:31:34.790] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 08:31:34.790] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 08:32:01.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was cursed by Maledictus 's Magic
-[18Jul2025 08:32:01.323] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1093, 55, -985) minecraft:overworld
-[18Jul2025 08:32:35.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has completed the challenge [Crusade Against Curse]
-[18Jul2025 08:33:06.318] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 08:33:06.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 08:33:06.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 08:33:06.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 08:33:06.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 08:40:36.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Polar Bear (vehicle of zilasaur) moved wrongly! 0.29507493350001823
-[18Jul2025 08:40:36.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Polar Bear (vehicle of zilasaur) moved wrongly! 0.3125
-[18Jul2025 08:40:36.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Polar Bear (vehicle of zilasaur) moved wrongly! 0.3125
-[18Jul2025 08:40:36.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Polar Bear (vehicle of zilasaur) moved wrongly! 0.3125
-[18Jul2025 08:40:36.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Polar Bear (vehicle of zilasaur) moved wrongly! 0.3125
-[18Jul2025 08:40:36.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Polar Bear (vehicle of zilasaur) moved wrongly! 0.3125
-[18Jul2025 08:43:27.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Spooky Scary Skeleton]
-[18Jul2025 08:45:10.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
-[18Jul2025 08:47:04.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
-[18Jul2025 08:47:10.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
-[18Jul2025 08:50:47.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [A Freezing Place]
-[18Jul2025 08:51:13.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has completed the challenge [The Coldest Golem]
-[18Jul2025 08:54:13.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
-[18Jul2025 08:55:15.780] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-53, y=25, z=-1012}
-[18Jul2025 08:55:26.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
-[18Jul2025 08:58:19.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! 0.8919787620209263,-0.5343456140152512,18.943273406559513
-[18Jul2025 09:00:05.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
-[18Jul2025 09:07:47.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
-[18Jul2025 09:08:10.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
-[18Jul2025 09:12:15.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! -5.836527310006204,-1.6149615723118131,-18.597015126431643
-[18Jul2025 09:12:22.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! 10.892790542692637,-1.936407346799811,13.506107274545002
-[18Jul2025 09:15:17.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -5.3061916538049445,1.5705417211731287,8.726941096047199
-[18Jul2025 09:15:17.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -5.700455766850155,1.6860894982413583,9.365753102401072
-[18Jul2025 09:15:19.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -6.03240414265224,1.8711393437547486,8.571082256383988
-[18Jul2025 09:15:22.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -6.64348499711673,1.7910024169210885,8.240997228401397
-[18Jul2025 09:15:22.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -7.159219953856336,1.935025540185876,8.870758231042487
-[18Jul2025 09:15:23.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -6.37619863678151,1.9585998227981918,7.750001667801712
-[18Jul2025 09:15:23.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -6.895918597009313,2.1208985267155356,8.386955195413066
-[18Jul2025 09:15:23.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -7.413776536290015,2.2822763042856025,9.02284492723902
-[18Jul2025 09:15:24.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -6.279849760368279,1.852896531788815,7.917981518698866
-[18Jul2025 09:15:24.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -6.787648072602906,1.9960833598701413,8.572144355221894
-[18Jul2025 09:15:32.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -6.575441258213459,1.7029121068264885,8.166852928117578
-[18Jul2025 09:15:33.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -6.609990336605506,1.782159834760904,7.799588488725362
-[18Jul2025 09:15:33.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -7.155882691030229,1.9394854480811432,8.439441786613429
-[18Jul2025 09:15:33.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -7.700722278807234,2.0985031324301247,9.0777550327565
-[18Jul2025 09:17:26.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! 7.4731619876052235,-1.977492666614836,6.545513506301631
-[18Jul2025 09:17:27.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -8.361437522464328,2.271810908648291,-7.434455499735577
-[18Jul2025 09:17:27.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -7.4967056522825,2.0322938443069063,-6.665210249141751
-[18Jul2025 09:18:05.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! 3.3430182122819474,-0.48894960423166367,10.232456169698708
-[18Jul2025 09:18:05.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! 3.72751867997124,-0.5055239569150558,11.480269931330213
-[18Jul2025 09:18:06.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -2.9446761197805813,-0.002186886306787983,-9.814254335793066
-[18Jul2025 09:18:06.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -2.9446761197805813,-0.002186886306787983,-9.814254335793066
-[18Jul2025 09:18:30.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! 8.845519664717699,-2.3577291673974514,-4.866618258909739
-[18Jul2025 09:18:30.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -8.747852074302727,2.1968471721625917,4.750149467503434
-[18Jul2025 09:18:51.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
-[18Jul2025 09:19:00.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
-[18Jul2025 09:23:24.017] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur lost connection: Disconnected
-[18Jul2025 09:23:24.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur left the game
-[18Jul2025 09:23:42.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zilasaur[/127.211.36.91:58467] logged in with entity id 61935 at (859.4504201568826, 72.0, 1211.7754351200874)
-[18Jul2025 09:23:42.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur joined the game
-[18Jul2025 09:28:43.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
-[18Jul2025 09:29:05.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 fell from a high place
-[18Jul2025 09:29:05.233] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(829, 75, 743) minecraft:overworld
-[18Jul2025 09:31:55.294] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 09:31:55.294] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 09:31:55.294] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 emerald_stoneplate_ring
-[18Jul2025 09:31:55.294] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
-[18Jul2025 09:31:55.295] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 09:31:55.295] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 09:31:55.295] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 09:31:55.295] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 09:31:55.296] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 09:36:36.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Voluntary Exile]
-[18Jul2025 09:37:28.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was shot by Pillager
-[18Jul2025 09:37:28.317] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(695, -31, 653) minecraft:overworld
-[18Jul2025 09:37:37.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved too quickly! 0.014565782233148639,-11.293861430090466,-0.01328569649660949
-[18Jul2025 09:38:34.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved too quickly! 3.8190707264906223,-10.0,1.1384472850170368
-[18Jul2025 09:38:34.878] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 09:38:34.878] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 09:38:34.878] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 09:38:34.878] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 09:39:41.493] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
-[18Jul2025 09:42:18.786] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5422, y=81, z=-9004}
-[18Jul2025 09:42:18.786] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9009}
-[18Jul2025 09:42:18.787] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9007}
-[18Jul2025 09:42:18.787] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9008}
-[18Jul2025 09:42:18.787] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9001}
-[18Jul2025 09:42:18.787] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9000}
-[18Jul2025 09:42:18.788] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-8999}
-[18Jul2025 09:42:52.081] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
-[18Jul2025 09:43:47.336] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
-[18Jul2025 09:44:50.364] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5422, y=81, z=-9004}
-[18Jul2025 09:44:50.384] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9009}
-[18Jul2025 09:44:50.389] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9007}
-[18Jul2025 09:44:50.389] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9008}
-[18Jul2025 09:44:50.389] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9001}
-[18Jul2025 09:44:50.389] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9000}
-[18Jul2025 09:44:50.390] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-8999}
-[18Jul2025 09:48:15.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
-[18Jul2025 09:51:50.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has reached the goal [Postmortal]
-[18Jul2025 09:52:14.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Vindicator
-[18Jul2025 09:52:14.316] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1524, -24, -391) minecraft:overworld
-[18Jul2025 09:53:02.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was doomed to fall
-[18Jul2025 09:53:39.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur froze to death
-[18Jul2025 09:54:04.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was doomed to fall
-[18Jul2025 09:54:48.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved too quickly! -2.1413576605348226,-8.0,-8.37220175632092
-[18Jul2025 09:54:50.165] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 09:54:50.165] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 09:54:50.166] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 09:54:50.166] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
-[18Jul2025 09:54:50.166] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 09:56:23.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Vindicator
-[18Jul2025 09:56:23.514] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1493, -17, -369) minecraft:overworld
-[18Jul2025 09:57:23.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Vindicator
-[18Jul2025 09:57:23.612] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1492, -17, -369) minecraft:overworld
-[18Jul2025 09:57:53.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was shot by Skeleton
-[18Jul2025 09:59:53.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved too quickly! -2.300000011920929,10.0,9.925000011920929
-[18Jul2025 09:59:54.938] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 09:59:54.938] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 09:59:54.938] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[18Jul2025 09:59:54.938] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
-[18Jul2025 09:59:54.939] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
-[18Jul2025 10:01:17.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 lost connection: Disconnected
-[18Jul2025 10:01:17.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
-[18Jul2025 10:02:02.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur lost connection: Disconnected
-[18Jul2025 10:02:02.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur left the game
-[18Jul2025 10:02:03.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[18Jul2025 10:02:03.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[18Jul2025 10:02:03.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[18Jul2025 10:02:03.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[18Jul2025 10:02:03.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18Jul2025 10:02:03.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/prehistoricfauna:triassic
-[18Jul2025 10:02:03.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18Jul2025 10:02:03.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18Jul2025 10:02:03.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/prehistoricfauna:cretaceous
-[18Jul2025 10:02:03.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/prehistoricfauna:jurassic
-[18Jul2025 10:02:03.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18Jul2025 10:02:03.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (triassic): All chunks are saved
-[18Jul2025 10:02:03.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18Jul2025 10:02:03.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18Jul2025 10:02:03.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cretaceous): All chunks are saved
-[18Jul2025 10:02:03.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (jurassic): All chunks are saved
-[18Jul2025 10:02:03.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Jul2025 21:58:05.288] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[18Jul2025 21:58:05.325] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement knightquest:recipes/misc/empty_goblet: Missing criteria, expected to find a JsonObject
+[18Jul2025 21:58:05.416] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2198 advancements
+[18Jul2025 21:58:05.439] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[18Jul2025 21:58:05.445] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[18Jul2025 21:58:05.458] [main/INFO] [superlord.prehistoricfauna.common.recipes.PaleontologyTableRecipeJsonManager/]: Data loader for prehistoricfauna/paleontology_table loaded 3 jsons
+[18Jul2025 21:58:05.481] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[18Jul2025 21:58:07.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[18Jul2025 21:58:07.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[18Jul2025 21:58:07.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[18Jul2025 21:58:07.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[18Jul2025 21:58:07.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[18Jul2025 21:58:07.139] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[18Jul2025 21:58:07.226] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18Jul2025 21:58:07.227] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[18Jul2025 21:58:07.227] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18Jul2025 21:58:07.227] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[18Jul2025 21:58:07.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[18Jul2025 21:58:10.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18Jul2025 21:58:13.921] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Jul2025 21:58:13.932] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Jul2025 21:58:13.945] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Jul2025 21:58:13.952] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Jul2025 21:58:13.962] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Jul2025 21:58:13.971] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Jul2025 21:58:13.979] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Jul2025 21:58:13.986] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Jul2025 21:58:14.453] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Jul2025 21:58:14.952] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Jul2025 21:58:15.452] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[18Jul2025 21:58:15.951] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 41%
+[18Jul2025 21:58:16.412] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5962 ms
+[18Jul2025 21:58:16.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.173s)! For help, type "help"
+[18Jul2025 21:58:16.459] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[18Jul2025 21:58:16.460] [Server thread/INFO] [superlord.prehistoricfauna.common.recipes.PaleontologyTableRecipeJsonManager/]: Registered 3 jsons with items!
+[18Jul2025 21:58:48.662] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:33213] logged in with entity id 111 at (660.9409650776698, 63.0, -18.838211516105243)
+[18Jul2025 21:58:48.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
+[18Jul2025 21:58:51.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2394ms or 47 ticks behind
+[18Jul2025 22:00:25.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom moved wrongly!
+[18Jul2025 22:05:51.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom hit the ground too hard whilst trying to escape Scarlet Persecutor
+[18Jul2025 22:05:51.317] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(580, 128, -177) minecraft:overworld
+[18Jul2025 22:07:03.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom moved too quickly! -6.479675694471894,0.0448124203990119,-7.837360119872301
+[18Jul2025 22:07:03.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom was kicked for floating too long!
+[18Jul2025 22:07:03.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Flying is not enabled on this server
+[18Jul2025 22:07:03.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[18Jul2025 22:07:20.084] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:57779] logged in with entity id 1669 at (838.6049626150287, 72.00133597911214, 1163.3037946610687)
+[18Jul2025 22:07:20.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
