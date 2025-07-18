@@ -293,3 +293,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [18Jul2025 07:27:24.089] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [18Jul2025 07:30:32.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved wrongly!
 [18Jul2025 07:33:53.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has reached the goal [Senior Summoner]
+[18Jul2025 07:48:10.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was doomed to fall
+[18Jul2025 07:48:10.898] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2114, 127, -1080) minecraft:overworld
+[18Jul2025 07:48:45.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [A Terrifying Entrance]
+[18Jul2025 07:48:46.047] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 07:48:46.048] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 07:48:46.048] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 07:48:46.048] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[18Jul2025 07:48:46.049] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[18Jul2025 07:52:46.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
