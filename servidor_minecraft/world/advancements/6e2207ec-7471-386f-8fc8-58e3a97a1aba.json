@@ -539,9 +539,11 @@
       "cooked_mutton": "2025-07-17 05:10:23 +0000",
       "sweet_berries": "2025-07-16 22:42:48 +0000",
       "cooked_beef": "2025-07-17 06:37:20 +0000",
+      "baked_potato": "2025-07-18 05:20:00 +0000",
       "potato": "2025-07-17 01:38:44 +0000",
       "cooked_cod": "2025-07-18 00:55:28 +0000",
       "pumpkin_pie": "2025-07-17 07:19:04 +0000",
+      "mutton": "2025-07-18 05:14:28 +0000",
       "bread": "2025-07-16 23:41:44 +0000",
       "golden_apple": "2025-07-17 22:10:48 +0000",
       "salmon": "2025-07-17 00:04:20 +0000",
@@ -2935,45 +2937,39 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/deepslate_boots": {
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-07-17 22:25:51 +0000"
+      "has_gold_backpack": "2025-07-17 21:53:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/triassic_sandstone_wall": {
+  "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
-      "has_stone": "2025-07-17 22:04:29 +0000"
+      "has_copper_ingot": "2025-07-17 21:54:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate": {
+  "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-07-17 22:25:51 +0000"
+      "has_copper_ingot": "2025-07-17 21:54:50 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/forze_boots": {
+  "minecraft:recipes/tools/brush": {
     "criteria": {
-      "has_spider_eye": "2025-07-17 22:11:23 +0000"
+      "has_copper_ingot": "2025-07-17 21:54:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-07-17 22:25:51 +0000"
+      "diamond_chestplate": "2025-07-17 21:55:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_sandstone": "2025-07-17 22:37:23 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/creeper_leggings": {
-    "criteria": {
-      "has_gunpowder": "2025-07-17 22:23:42 +0000"
+      "has_water_bucket": "2025-07-17 21:57:33 +0000"
     },
     "done": true
   },
@@ -2983,34 +2979,141 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+  "minecraft:recipes/building_blocks/smooth_cretaceous_chalk": {
     "criteria": {
-      "lifeturnedouttobeacomedy_0": "2025-07-17 23:25:13 +0000"
+      "has_stone": "2025-07-17 22:03:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+  "minecraft:recipes/building_blocks/cretaceous_chalk_stairs": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-07-17 22:25:51 +0000"
+      "has_stone": "2025-07-17 22:03:46 +0000"
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "minecraft:recipes/building_blocks/polished_cretaceous_chalk_stairs": {
     "criteria": {
-      "minecraft:basalt_deltas": "2025-07-18 00:45:47 +0000",
-      "minecraft:warped_forest": "2025-07-18 00:45:50 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-07-17 22:37:17 +0000"
+      "has_stone": "2025-07-17 22:03:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone": {
+  "minecraft:recipes/building_blocks/chalk_slab": {
     "criteria": {
-      "has_sandstone": "2025-07-17 22:37:23 +0000"
+      "has_stone": "2025-07-17 22:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cretaceous_chalk_wall": {
+    "criteria": {
+      "has_stone": "2025-07-17 22:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paleontology_table": {
+    "criteria": {
+      "has_fossils": "2025-07-17 22:03:54 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/digger_man": {
+    "criteria": {
+      "cretaceous_fossil": "2025-07-17 22:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wall_fossil": {
+    "criteria": {
+      "has_fossils": "2025-07-17 22:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jurassic_siltstone_slab": {
+    "criteria": {
+      "has_stone": "2025-07-17 22:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jurassic_siltstone_stairs": {
+    "criteria": {
+      "has_stone": "2025-07-17 22:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jurassic_siltstone_wall": {
+    "criteria": {
+      "has_stone": "2025-07-17 22:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_jurassic_siltstone": {
+    "criteria": {
+      "has_stone": "2025-07-17 22:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_jurassic_siltstone": {
+    "criteria": {
+      "has_stone": "2025-07-17 22:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/triassic_sandstone_wall": {
+    "criteria": {
+      "has_stone": "2025-07-17 22:04:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_triassic_sandstone": {
+    "criteria": {
+      "has_stone": "2025-07-17 22:04:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/triassic_sandstone_stairs": {
+    "criteria": {
+      "has_stone": "2025-07-17 22:04:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/triassic_sandstone_slab": {
+    "criteria": {
+      "has_stone": "2025-07-17 22:04:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_triassic_sandstone": {
+    "criteria": {
+      "has_stone": "2025-07-17 22:04:29 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/forze_boots": {
+    "criteria": {
+      "has_spider_eye": "2025-07-17 22:11:23 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/forze_chestplate": {
+    "criteria": {
+      "has_spider_eye": "2025-07-17 22:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-17 22:11:23 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/forze_helmet": {
+    "criteria": {
+      "has_spider_eye": "2025-07-17 22:11:23 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/forze_leggings": {
+    "criteria": {
+      "has_spider_eye": "2025-07-17 22:11:23 +0000"
     },
     "done": true
   },
@@ -3020,51 +3123,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_mushroom_stew": "2025-07-18 00:21:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-07-17 22:21:22 +0000"
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "minecraft:recipes/redstone/note_block": {
     "criteria": {
-      "entered_nether": "2025-07-18 00:45:46 +0000"
+      "has_redstone": "2025-07-17 22:21:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+  "minecraft:recipes/tools/compass": {
     "criteria": {
-      "has_sandstone": "2025-07-17 22:37:23 +0000"
+      "has_redstone": "2025-07-17 22:21:22 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+  "minecraft:recipes/redstone/dropper": {
     "criteria": {
-      "has_gold_backpack": "2025-07-17 21:53:59 +0000"
+      "has_redstone": "2025-07-17 22:21:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone": {
+  "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
-      "has_sandstone": "2025-07-17 22:37:23 +0000"
+      "has_redstone": "2025-07-17 22:21:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-17 22:21:22 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-07-17 22:21:31 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_leggings": {
+    "criteria": {
+      "has_gunpowder": "2025-07-17 22:23:42 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_boots": {
+    "criteria": {
+      "has_gunpowder": "2025-07-17 22:23:42 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_chestplate": {
+    "criteria": {
+      "has_gunpowder": "2025-07-17 22:23:42 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_helmet": {
+    "criteria": {
+      "has_gunpowder": "2025-07-17 22:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-17 22:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-17 22:23:42 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/deepslate_boots": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-17 22:25:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-17 22:25:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-17 22:25:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-17 22:25:51 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-17 22:25:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-07-17 21:55:29 +0000"
     },
     "done": true
   },
@@ -3077,36 +3240,6 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-17 22:25:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_cretaceous_chalk": {
-    "criteria": {
-      "has_stone": "2025-07-17 22:03:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2025-07-17 21:54:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-07-17 23:59:12 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/creeper_boots": {
-    "criteria": {
-      "has_gunpowder": "2025-07-17 22:23:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-07-17 22:37:23 +0000"
     },
     "done": true
   },
@@ -3128,24 +3261,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/paleontology_table": {
-    "criteria": {
-      "has_fossils": "2025-07-17 22:03:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cretaceous_chalk_stairs": {
-    "criteria": {
-      "has_stone": "2025-07-17 22:03:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2025-07-17 22:21:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-17 22:25:51 +0000"
@@ -3158,69 +3273,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jurassic_siltstone_slab": {
-    "criteria": {
-      "has_stone": "2025-07-17 22:04:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-17 22:25:51 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:deceived_hopes": {
-    "criteria": {
-      "deceived_hopes_0": "2025-07-17 22:21:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2025-07-17 22:21:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jurassic_siltstone_stairs": {
-    "criteria": {
-      "has_stone": "2025-07-17 22:04:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2025-07-17 21:54:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
-    "criteria": {
-      "has_sandstone": "2025-07-17 22:37:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-17 22:25:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-07-18 01:19:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_cretaceous_chalk_stairs": {
-    "criteria": {
-      "has_stone": "2025-07-17 22:03:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_triassic_sandstone": {
-    "criteria": {
-      "has_stone": "2025-07-17 22:04:29 +0000"
     },
     "done": true
   },
@@ -3236,57 +3297,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jurassic_siltstone_wall": {
-    "criteria": {
-      "has_stone": "2025-07-17 22:04:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_the_recipe": "2025-07-18 00:30:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2025-07-17 21:54:50 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/forze_chestplate": {
-    "criteria": {
-      "has_spider_eye": "2025-07-17 22:11:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chalk_slab": {
-    "criteria": {
-      "has_stone": "2025-07-17 22:03:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-07-17 22:11:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-17 22:25:51 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/creeper_chestplate": {
-    "criteria": {
-      "has_gunpowder": "2025-07-17 22:23:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/triassic_sandstone_stairs": {
-    "criteria": {
-      "has_stone": "2025-07-17 22:04:29 +0000"
     },
     "done": true
   },
@@ -3302,39 +3315,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:good_demoman": {
-    "criteria": {
-      "good_demoman_0": "2025-07-17 22:57:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-07-17 22:37:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-07-18 00:45:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-17 22:25:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-07-17 22:51:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-07-17 22:37:23 +0000"
     },
     "done": true
   },
@@ -3344,87 +3327,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/triassic_sandstone_slab": {
-    "criteria": {
-      "has_stone": "2025-07-17 22:04:29 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/forze_helmet": {
-    "criteria": {
-      "has_spider_eye": "2025-07-17 22:11:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-07-17 22:37:23 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:exorcism": {
-    "criteria": {
-      "exorcism_0": "2025-07-17 23:25:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-07-17 22:37:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2025-07-17 22:21:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-07-17 22:51:33 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/husk_helmet3": {
-    "criteria": {
-      "has_sandstone": "2025-07-17 22:37:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-07-17 21:57:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_triassic_sandstone": {
-    "criteria": {
-      "has_stone": "2025-07-17 22:04:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2025-07-17 22:21:22 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/creeper_helmet": {
-    "criteria": {
-      "has_gunpowder": "2025-07-17 22:23:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-17 22:25:51 +0000"
-    },
-    "done": true
-  },
-  "prehistoricfauna:prehistoricfauna/general/digger_man": {
-    "criteria": {
-      "cretaceous_fossil": "2025-07-17 22:03:54 +0000"
     },
     "done": true
   },
@@ -3434,69 +3339,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_jurassic_siltstone": {
-    "criteria": {
-      "has_stone": "2025-07-17 22:04:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall": {
-    "criteria": {
-      "has_sandstone": "2025-07-17 22:37:23 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/forze_leggings": {
-    "criteria": {
-      "has_spider_eye": "2025-07-17 22:11:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-07-17 22:23:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_mushroom_stew": "2025-07-18 00:21:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-17 22:25:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-07-17 22:23:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-07-17 22:51:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wall_fossil": {
-    "criteria": {
-      "has_fossils": "2025-07-17 22:03:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cretaceous_chalk_wall": {
-    "criteria": {
-      "has_stone": "2025-07-17 22:03:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_jurassic_siltstone": {
-    "criteria": {
-      "has_stone": "2025-07-17 22:04:22 +0000"
     },
     "done": true
   },
@@ -3506,15 +3351,226 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_redstone": "2025-07-17 22:21:22 +0000"
+      "has_smelts_to_glass": "2025-07-17 22:37:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 22:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 22:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 22:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 22:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 22:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 22:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 22:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 22:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 22:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 22:37:23 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_helmet3": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 22:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-07-17 22:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-07-17 22:51:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-17 22:51:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-17 22:51:33 +0000"
     },
     "done": true
   },
   "born_in_chaos_v1:junior_summoner": {
     "criteria": {
       "junior_summoner_0": "2025-07-17 22:56:47 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-07-17 22:57:58 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-07-17 23:25:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-07-17 23:25:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-17 23:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2025-07-18 00:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-07-18 00:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_the_recipe": "2025-07-18 00:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-18 00:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-18 00:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-07-18 00:45:47 +0000",
+      "minecraft:warped_forest": "2025-07-18 00:45:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-18 01:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-18 05:20:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-07-18 05:20:34 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-07-18 05:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-07-18 05:20:34 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_frostbitten_golem": {
+    "criteria": {
+      "frostbitten_golem": "2025-07-18 05:18:39 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_frostbitten_temple": {
+    "criteria": {
+      "frostbitten_temple": "2025-07-18 05:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-07-18 05:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-18 05:29:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-18 05:27:56 +0000"
     },
     "done": true
   },

@@ -275,3 +275,36 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [18Jul2025 04:22:40.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2524ms or 50 ticks behind
 [18Jul2025 04:26:42.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [The Wind Darkening]
 [18Jul2025 04:58:12.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has completed the challenge [Unity with Darkness]
+[18Jul2025 05:06:30.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Life turned out to be a comedy]
+[18Jul2025 05:08:46.145] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zilasaur[/127.211.36.91:34967] logged in with entity id 15632 at (-2315.484215072841, 63.0, -1947.1766959841466)
+[18Jul2025 05:08:46.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur joined the game
+[18Jul2025 05:09:35.539] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Jul2025 05:09:35.540] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Jul2025 05:13:50.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [A Freezing Place]
+[18Jul2025 05:18:39.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has completed the challenge [The Coldest Golem]
+[18Jul2025 05:18:50.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[18Jul2025 05:22:24.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Made From Clouds...]
+[18Jul2025 05:23:29.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[18Jul2025 05:23:42.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of zilasaur) moved wrongly! 0.2533959624493036
+[18Jul2025 05:23:42.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of zilasaur) moved wrongly! 0.40901012569383965
+[18Jul2025 05:23:42.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of zilasaur) moved wrongly! 0.5655841058173792
+[18Jul2025 05:23:42.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of zilasaur) moved wrongly! 0.722906635529398
+[18Jul2025 05:23:42.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of zilasaur) moved wrongly! 0.8810738342835975
+[18Jul2025 05:23:42.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of zilasaur) moved wrongly! 1.0402400827656493
+[18Jul2025 05:23:42.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of zilasaur) moved wrongly! 1.2006024663464814
+[18Jul2025 05:23:42.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of zilasaur) moved wrongly! 1.3623898285313771
+[18Jul2025 05:26:43.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[18Jul2025 05:26:58.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[18Jul2025 05:26:59.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has reached the goal [Dark Blacksmith]
+[18Jul2025 05:28:23.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was Crushed to death by Cumulonimbus
+[18Jul2025 05:28:23.114] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2117, 124, -1675) minecraft:overworld
+[18Jul2025 05:33:58.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur withered away whilst fighting xUNIx10
+[18Jul2025 05:33:58.844] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(859, 72, 1219) minecraft:overworld
+[18Jul2025 05:39:14.762] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Jul2025 05:39:14.763] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Jul2025 05:39:41.760] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Jul2025 05:39:41.760] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Jul2025 05:39:44.230] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Jul2025 05:39:44.231] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Jul2025 05:41:58.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[18Jul2025 05:42:25.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
