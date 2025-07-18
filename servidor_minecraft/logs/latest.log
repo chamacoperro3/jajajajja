@@ -330,3 +330,56 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [18Jul2025 08:15:37.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Jail of Cold]
 [18Jul2025 08:15:52.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
 [18Jul2025 08:17:41.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Jail of Cold]
+[18Jul2025 08:25:22.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has reached the goal [Seafood]
+[18Jul2025 08:25:44.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was cursed by Maledictus
+[18Jul2025 08:25:44.565] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1109, 56, -985) minecraft:overworld
+[18Jul2025 08:25:53.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was cursed by Maledictus
+[18Jul2025 08:25:53.865] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1099, 55, -978) minecraft:overworld
+[18Jul2025 08:28:05.342] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 08:28:05.342] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 08:28:05.343] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 emerald_stoneplate_ring
+[18Jul2025 08:28:05.343] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[18Jul2025 08:28:05.343] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 08:28:05.343] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 08:28:05.344] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[18Jul2025 08:28:05.344] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[18Jul2025 08:28:05.344] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[18Jul2025 08:28:14.604] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 08:28:14.604] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 08:28:14.604] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 08:28:14.605] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[18Jul2025 08:28:14.605] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[18Jul2025 08:29:38.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was cursed by Maledictus 's Magic
+[18Jul2025 08:29:38.969] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1096, 57, -960) minecraft:overworld
+[18Jul2025 08:29:40.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Spooky Scary Skeleton]
+[18Jul2025 08:30:07.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by Maledictus
+[18Jul2025 08:30:07.265] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1098, 55, -989) minecraft:overworld
+[18Jul2025 08:30:46.690] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 08:30:46.690] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 08:30:46.690] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 08:30:46.691] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[18Jul2025 08:30:46.691] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[18Jul2025 08:31:34.788] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 08:31:34.789] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 08:31:34.789] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 cast_time_ring
+[18Jul2025 08:31:34.789] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[18Jul2025 08:31:34.789] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 08:31:34.789] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 08:31:34.790] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[18Jul2025 08:31:34.790] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[18Jul2025 08:31:34.790] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[18Jul2025 08:32:01.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was cursed by Maledictus 's Magic
+[18Jul2025 08:32:01.323] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1093, 55, -985) minecraft:overworld
+[18Jul2025 08:32:35.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has completed the challenge [Crusade Against Curse]
+[18Jul2025 08:33:06.318] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 08:33:06.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 08:33:06.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 08:33:06.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[18Jul2025 08:33:06.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[18Jul2025 08:40:36.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Polar Bear (vehicle of zilasaur) moved wrongly! 0.29507493350001823
+[18Jul2025 08:40:36.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Polar Bear (vehicle of zilasaur) moved wrongly! 0.3125
+[18Jul2025 08:40:36.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Polar Bear (vehicle of zilasaur) moved wrongly! 0.3125
+[18Jul2025 08:40:36.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Polar Bear (vehicle of zilasaur) moved wrongly! 0.3125
+[18Jul2025 08:40:36.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Polar Bear (vehicle of zilasaur) moved wrongly! 0.3125
+[18Jul2025 08:40:36.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Polar Bear (vehicle of zilasaur) moved wrongly! 0.3125
+[18Jul2025 08:43:27.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Spooky Scary Skeleton]
