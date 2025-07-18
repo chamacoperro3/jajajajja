@@ -86,6 +86,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-17 00:22:29 +0000",
+      "minecraft:mushroom_fields": "2025-07-18 00:44:38 +0000",
       "minecraft:taiga": "2025-07-16 23:40:54 +0000",
       "minecraft:frozen_river": "2025-07-17 00:13:08 +0000",
       "minecraft:beach": "2025-07-17 00:10:35 +0000",
@@ -94,8 +95,10 @@
       "minecraft:stony_shore": "2025-07-17 00:10:39 +0000",
       "minecraft:snowy_taiga": "2025-07-17 00:18:15 +0000",
       "minecraft:grove": "2025-07-17 00:13:33 +0000",
+      "minecraft:cold_ocean": "2025-07-18 00:42:07 +0000",
       "minecraft:forest": "2025-07-17 00:07:19 +0000",
       "minecraft:lush_caves": "2025-07-16 23:47:10 +0000",
+      "minecraft:deep_cold_ocean": "2025-07-18 00:43:54 +0000",
       "minecraft:frozen_peaks": "2025-07-17 22:03:29 +0000",
       "minecraft:deep_dark": "2025-07-17 22:03:39 +0000",
       "minecraft:meadow": "2025-07-17 00:11:32 +0000",
@@ -537,9 +540,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-07-18 00:21:38 +0000",
       "cooked_mutton": "2025-07-17 00:00:14 +0000",
       "cooked_beef": "2025-07-17 00:47:16 +0000",
       "porkchop": "2025-07-17 00:39:07 +0000",
+      "cooked_cod": "2025-07-18 00:46:01 +0000",
       "mutton": "2025-07-17 22:05:39 +0000",
       "bread": "2025-07-17 00:52:16 +0000",
       "glow_berries": "2025-07-16 23:47:21 +0000",
@@ -2321,33 +2326,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-07-17 22:36:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2025-07-17 22:33:59 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/polar_leggings": {
     "criteria": {
       "has_snowball": "2025-07-17 21:37:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-07-17 22:54:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_mushroom_stew": "2025-07-17 22:28:50 +0000"
     },
     "done": true
   },
@@ -2357,27 +2338,27 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/hollow_helmet": {
-    "criteria": {
-      "has_red_mushroom": "2025-07-17 23:07:23 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/polar_chestplate": {
     "criteria": {
       "has_snowball": "2025-07-17 21:37:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_carpet": {
+  "knightquest:recipes/misc/polar_helmet": {
     "criteria": {
-      "has_gray_wool": "2025-07-17 22:33:59 +0000"
+      "has_snowball": "2025-07-17 21:37:41 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/hollow_leggings": {
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
-      "has_red_mushroom": "2025-07-17 23:07:23 +0000"
+      "has_snowball": "2025-07-17 21:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-07-17 22:03:28 +0000"
     },
     "done": true
   },
@@ -2387,9 +2368,51 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/hollow_chestplate": {
+  "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
-      "has_red_mushroom": "2025-07-17 23:07:23 +0000"
+      "has_echo_shard": "2025-07-17 22:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2025-07-17 22:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-07-17 22:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-07-17 22:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-07-17 22:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-07-17 22:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-17 22:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-17 22:54:50 +0000"
     },
     "done": true
   },
@@ -2405,21 +2428,21 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/polar_helmet": {
+  "knightquest:recipes/misc/hollow_helmet": {
     "criteria": {
-      "has_snowball": "2025-07-17 21:37:41 +0000"
+      "has_red_mushroom": "2025-07-17 23:07:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/recovery_compass": {
+  "knightquest:recipes/misc/hollow_leggings": {
     "criteria": {
-      "has_echo_shard": "2025-07-17 22:14:35 +0000"
+      "has_red_mushroom": "2025-07-17 23:07:23 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
+  "knightquest:recipes/misc/hollow_chestplate": {
     "criteria": {
-      "avoid_vibration": "2025-07-17 22:03:28 +0000"
+      "has_red_mushroom": "2025-07-17 23:07:23 +0000"
     },
     "done": true
   },
@@ -2429,21 +2452,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_banner": {
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
-      "has_gray_wool": "2025-07-17 22:33:59 +0000"
+      "has_chicken": "2025-07-18 00:21:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
-      "has_mushroom_stew": "2025-07-17 22:28:50 +0000"
+      "has_chicken": "2025-07-18 00:21:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "knightquest:recipes/misc/silver_helmet": {
     "criteria": {
-      "has_snowball": "2025-07-17 21:37:41 +0000"
+      "has_feather": "2025-07-18 00:21:35 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_leggings": {
+    "criteria": {
+      "has_feather": "2025-07-18 00:21:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-18 00:21:35 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_chestplate": {
+    "criteria": {
+      "has_feather": "2025-07-18 00:21:35 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/steel_sword": {
+    "criteria": {
+      "has_feather": "2025-07-18 00:21:35 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_boots": {
+    "criteria": {
+      "has_feather": "2025-07-18 00:21:35 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/steel_axe": {
+    "criteria": {
+      "has_feather": "2025-07-18 00:21:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-07-18 00:45:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-18 00:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-07-18 00:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-18 00:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_the_recipe": "2025-07-18 00:45:54 +0000"
     },
     "done": true
   },
