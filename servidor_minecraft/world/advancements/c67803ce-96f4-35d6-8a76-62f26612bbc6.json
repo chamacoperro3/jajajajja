@@ -546,11 +546,13 @@
       "chicken": "2025-07-18 00:21:38 +0000",
       "cooked_mutton": "2025-07-17 00:00:14 +0000",
       "cooked_beef": "2025-07-17 00:47:16 +0000",
+      "beef": "2025-07-18 01:30:55 +0000",
       "porkchop": "2025-07-17 00:39:07 +0000",
       "cooked_cod": "2025-07-18 00:46:01 +0000",
       "mutton": "2025-07-17 22:05:39 +0000",
       "bread": "2025-07-17 00:52:16 +0000",
       "glow_berries": "2025-07-16 23:47:21 +0000",
+      "salmon": "2025-07-18 01:28:42 +0000",
       "mushroom_stew": "2025-07-17 22:28:53 +0000"
     },
     "done": false
@@ -2593,6 +2595,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-18 01:28:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2025-07-18 00:46:05 +0000"
@@ -2629,6 +2637,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-18 01:28:37 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/warlord_boots": {
     "criteria": {
       "has_gold_ingot": "2025-07-18 00:59:32 +0000"
@@ -2644,6 +2658,12 @@
   "irons_spellbooks:irons_spellbooks/spell_book_iron": {
     "criteria": {
       "requirement": "2025-07-18 00:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-18 01:28:37 +0000"
     },
     "done": true
   },

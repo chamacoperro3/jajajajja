@@ -603,3 +603,11 @@
 [18Jul2025 01:22:01.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur left the game
 [18Jul2025 01:22:01.489] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [18Jul2025 01:24:14.319] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/114175, l='ServerLevel[world]', x=728.49, y=62.41, z=217.99, removed=DISCARDED]
+[18Jul2025 01:26:09.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom was slain by Nightmare Stalker
+[18Jul2025 01:26:09.734] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(590, 123, -173) minecraft:overworld
+[18Jul2025 01:26:25.762] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/114175, l='ServerLevel[world]', x=728.49, y=62.41, z=217.99, removed=DISCARDED]
+[18Jul2025 01:28:55.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved wrongly!
+[18Jul2025 01:29:52.441] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/114175, l='ServerLevel[world]', x=728.49, y=62.41, z=217.99, removed=DISCARDED]
+[18Jul2025 01:31:29.921] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/114175, l='ServerLevel[world]', x=728.49, y=62.41, z=217.99, removed=DISCARDED]
+[18Jul2025 01:32:21.592] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 01:32:21.592] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
