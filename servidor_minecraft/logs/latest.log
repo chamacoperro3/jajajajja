@@ -274,3 +274,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [18Jul2025 04:22:37.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 joined the game
 [18Jul2025 04:22:40.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2524ms or 50 ticks behind
 [18Jul2025 04:26:42.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [The Wind Darkening]
+[18Jul2025 04:58:12.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has completed the challenge [Unity with Darkness]
