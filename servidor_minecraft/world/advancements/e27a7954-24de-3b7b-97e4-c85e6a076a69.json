@@ -4961,15 +4961,39 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-07-18 06:41:58 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_cloud_golem": {
     "criteria": {
       "cloud_golem": "2025-07-18 06:42:27 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:double_trouble": {
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
-      "double_trouble_0": "2025-07-18 06:41:58 +0000"
+      "has_polished_diorite": "2025-07-18 06:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-07-18 06:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-07-18 06:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-07-18 06:51:00 +0000"
     },
     "done": true
   },
