@@ -3818,6 +3818,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-18 08:43:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-07-18 07:20:19 +0000"
@@ -3881,6 +3887,12 @@
   "legendary_monsters:defeat_haunted_knight": {
     "criteria": {
       "ambusher": "2025-07-18 08:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-18 08:43:27 +0000"
     },
     "done": true
   },

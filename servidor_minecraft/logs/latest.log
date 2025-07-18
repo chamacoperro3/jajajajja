@@ -383,3 +383,46 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [18Jul2025 08:40:36.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Polar Bear (vehicle of zilasaur) moved wrongly! 0.3125
 [18Jul2025 08:40:36.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Polar Bear (vehicle of zilasaur) moved wrongly! 0.3125
 [18Jul2025 08:43:27.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Spooky Scary Skeleton]
+[18Jul2025 08:45:10.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[18Jul2025 08:47:04.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[18Jul2025 08:47:10.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[18Jul2025 08:50:47.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [A Freezing Place]
+[18Jul2025 08:51:13.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has completed the challenge [The Coldest Golem]
+[18Jul2025 08:54:13.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[18Jul2025 08:55:15.780] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-53, y=25, z=-1012}
+[18Jul2025 08:55:26.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[18Jul2025 08:58:19.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! 0.8919787620209263,-0.5343456140152512,18.943273406559513
+[18Jul2025 09:00:05.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[18Jul2025 09:07:47.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[18Jul2025 09:08:10.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[18Jul2025 09:12:15.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! -5.836527310006204,-1.6149615723118131,-18.597015126431643
+[18Jul2025 09:12:22.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! 10.892790542692637,-1.936407346799811,13.506107274545002
+[18Jul2025 09:15:17.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -5.3061916538049445,1.5705417211731287,8.726941096047199
+[18Jul2025 09:15:17.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -5.700455766850155,1.6860894982413583,9.365753102401072
+[18Jul2025 09:15:19.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -6.03240414265224,1.8711393437547486,8.571082256383988
+[18Jul2025 09:15:22.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -6.64348499711673,1.7910024169210885,8.240997228401397
+[18Jul2025 09:15:22.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -7.159219953856336,1.935025540185876,8.870758231042487
+[18Jul2025 09:15:23.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -6.37619863678151,1.9585998227981918,7.750001667801712
+[18Jul2025 09:15:23.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -6.895918597009313,2.1208985267155356,8.386955195413066
+[18Jul2025 09:15:23.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -7.413776536290015,2.2822763042856025,9.02284492723902
+[18Jul2025 09:15:24.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -6.279849760368279,1.852896531788815,7.917981518698866
+[18Jul2025 09:15:24.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -6.787648072602906,1.9960833598701413,8.572144355221894
+[18Jul2025 09:15:32.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -6.575441258213459,1.7029121068264885,8.166852928117578
+[18Jul2025 09:15:33.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -6.609990336605506,1.782159834760904,7.799588488725362
+[18Jul2025 09:15:33.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -7.155882691030229,1.9394854480811432,8.439441786613429
+[18Jul2025 09:15:33.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -7.700722278807234,2.0985031324301247,9.0777550327565
+[18Jul2025 09:17:26.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! 7.4731619876052235,-1.977492666614836,6.545513506301631
+[18Jul2025 09:17:27.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -8.361437522464328,2.271810908648291,-7.434455499735577
+[18Jul2025 09:17:27.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -7.4967056522825,2.0322938443069063,-6.665210249141751
+[18Jul2025 09:18:05.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! 3.3430182122819474,-0.48894960423166367,10.232456169698708
+[18Jul2025 09:18:05.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! 3.72751867997124,-0.5055239569150558,11.480269931330213
+[18Jul2025 09:18:06.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -2.9446761197805813,-0.002186886306787983,-9.814254335793066
+[18Jul2025 09:18:06.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -2.9446761197805813,-0.002186886306787983,-9.814254335793066
+[18Jul2025 09:18:30.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! 8.845519664717699,-2.3577291673974514,-4.866618258909739
+[18Jul2025 09:18:30.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of zilasaur) moved too quickly! -8.747852074302727,2.1968471721625917,4.750149467503434
+[18Jul2025 09:18:51.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[18Jul2025 09:19:00.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[18Jul2025 09:23:24.017] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur lost connection: Disconnected
+[18Jul2025 09:23:24.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur left the game
+[18Jul2025 09:23:42.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zilasaur[/127.211.36.91:58467] logged in with entity id 61935 at (859.4504201568826, 72.0, 1211.7754351200874)
+[18Jul2025 09:23:42.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur joined the game
