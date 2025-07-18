@@ -3997,3 +3997,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 7d124df5
 [18Jul2025 01:33:09.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jul2025 01:33:09.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 01:36:18.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom moved wrongly!
+[18Jul2025 01:36:19.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[18Jul2025 01:36:19.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[18Jul2025 01:38:09.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 01:38:09.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 01:42:09.931] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 lost connection: Disconnected
+[18Jul2025 01:42:09.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
+[18Jul2025 01:42:19.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Jul2025 01:42:19.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Jul2025 01:42:19.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Jul2025 01:42:19.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Jul2025 01:42:19.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Jul2025 01:42:19.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/prehistoricfauna:triassic
+[18Jul2025 01:42:19.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/prehistoricfauna:jurassic
+[18Jul2025 01:42:19.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Jul2025 01:42:19.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Jul2025 01:42:19.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/prehistoricfauna:cretaceous
+[18Jul2025 01:42:19.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 01:42:19.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 01:42:19.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Jul2025 01:42:19.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (triassic): All chunks are saved
+[18Jul2025 01:42:19.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (jurassic): All chunks are saved
+[18Jul2025 01:42:19.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Jul2025 01:42:19.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Jul2025 01:42:19.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cretaceous): All chunks are saved
+[18Jul2025 01:42:19.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Jul2025 01:42:20.611] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

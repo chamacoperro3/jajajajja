@@ -611,3 +611,25 @@
 [18Jul2025 01:31:29.921] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/114175, l='ServerLevel[world]', x=728.49, y=62.41, z=217.99, removed=DISCARDED]
 [18Jul2025 01:32:21.592] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [18Jul2025 01:32:21.592] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 01:36:18.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom moved wrongly!
+[18Jul2025 01:36:19.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[18Jul2025 01:36:19.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[18Jul2025 01:42:09.931] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 lost connection: Disconnected
+[18Jul2025 01:42:09.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
+[18Jul2025 01:42:19.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Jul2025 01:42:19.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Jul2025 01:42:19.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Jul2025 01:42:19.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Jul2025 01:42:19.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Jul2025 01:42:19.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/prehistoricfauna:triassic
+[18Jul2025 01:42:19.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/prehistoricfauna:jurassic
+[18Jul2025 01:42:19.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Jul2025 01:42:19.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Jul2025 01:42:19.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/prehistoricfauna:cretaceous
+[18Jul2025 01:42:19.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Jul2025 01:42:19.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (triassic): All chunks are saved
+[18Jul2025 01:42:19.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (jurassic): All chunks are saved
+[18Jul2025 01:42:19.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Jul2025 01:42:19.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Jul2025 01:42:19.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cretaceous): All chunks are saved
+[18Jul2025 01:42:19.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
