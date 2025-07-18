@@ -582,3 +582,24 @@
 [18Jul2025 01:08:11.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has reached the goal [Big Boy]
 [18Jul2025 01:11:29.541] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/114175, l='ServerLevel[world]', x=728.49, y=62.41, z=217.99, removed=DISCARDED]
 [18Jul2025 01:13:00.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved wrongly!
+[18Jul2025 01:14:08.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of zilasaur) moved too quickly! -4.48266292792141,-5.215563740549072,-7.3575796385724175
+[18Jul2025 01:14:08.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of zilasaur) moved too quickly! -4.7574140591686955,-5.41535165866992,-7.805598740918981
+[18Jul2025 01:14:08.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of zilasaur) moved too quickly! -5.033759319665933,-5.6025224531677225,-8.255558449486728
+[18Jul2025 01:14:08.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of zilasaur) moved too quickly! -5.311699040101303,-5.77757672147456,-8.707407930827742
+[18Jul2025 01:14:08.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of zilasaur) moved too quickly! -5.591228552144457,-5.941043685808779,-9.161088640941216
+[18Jul2025 01:14:08.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of zilasaur) moved too quickly! -5.8723438496763265,-6.0934702018948315,-9.616533007406986
+[18Jul2025 01:14:08.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of zilasaur) moved too quickly! -6.155033717742754,-6.23541169692831,-10.073671240171223
+[18Jul2025 01:14:08.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of zilasaur) moved too quickly! -6.439296281246243,-6.367424774020662,-10.532456211421334
+[18Jul2025 01:14:08.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of zilasaur) moved too quickly! -6.725112437441112,-6.490061232154119,-10.992811737138538
+[18Jul2025 01:14:08.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of zilasaur) moved too quickly! -7.012466651891373,-6.603863288961861,-11.454657101644159
+[18Jul2025 01:15:09.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Bypassing the Expiration Date]
+[18Jul2025 01:15:27.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[18Jul2025 01:17:17.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[18Jul2025 01:19:02.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Hot Stuff]
+[18Jul2025 01:21:23.636] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Jul2025 01:21:23.637] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Jul2025 01:21:44.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[18Jul2025 01:22:01.400] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur lost connection: Disconnected
+[18Jul2025 01:22:01.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur left the game
+[18Jul2025 01:22:01.489] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Jul2025 01:24:14.319] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/114175, l='ServerLevel[world]', x=728.49, y=62.41, z=217.99, removed=DISCARDED]
