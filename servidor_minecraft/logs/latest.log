@@ -315,3 +315,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [18Jul2025 05:47:59.022] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [18Jul2025 05:47:59.022] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [18Jul2025 05:53:18.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[18Jul2025 05:56:48.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[18Jul2025 05:56:52.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was Crushed to death by Cumulonimbus
+[18Jul2025 05:56:52.705] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2043, 58, -1622) minecraft:overworld
