@@ -2433,3 +2433,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [18Jul2025 08:03:27.420] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [18Jul2025 08:03:27.420] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [18Jul2025 08:03:27.421] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[18Jul2025 08:04:18.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Living Armor]
+[18Jul2025 08:05:32.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Possessed Paladin
+[18Jul2025 08:05:32.515] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1879, 86, -620) minecraft:overworld
+[18Jul2025 08:05:52.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved too quickly! -3.7926542675882047,-10.0,-10.158331520386128
+[18Jul2025 08:05:59.333] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 08:05:59.333] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 08:05:59.334] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 08:05:59.334] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[18Jul2025 08:05:59.334] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[18Jul2025 08:06:28.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has completed the challenge [The Fallen Knight]
+[18Jul2025 08:08:21.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 08:08:22.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 08:09:31.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[18Jul2025 08:13:14.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! -8.851763421725991,14.68721371213067,-2.7671628671602093
+[18Jul2025 08:13:14.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of zilasaur) moved too quickly! -9.23125943029163,-2.4908530917855387E-6,3.8680920416737763
+[18Jul2025 08:13:14.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of zilasaur) moved too quickly! -9.775722594059971,-2.6292338191069575E-6,4.0321440044068595
+[18Jul2025 08:13:22.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 08:13:22.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 08:15:37.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Jail of Cold]
+[18Jul2025 08:15:52.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[18Jul2025 08:17:41.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Jail of Cold]
+[18Jul2025 08:18:21.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 08:18:22.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 08:23:21.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 08:23:22.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
