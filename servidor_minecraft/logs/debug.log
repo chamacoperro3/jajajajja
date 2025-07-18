@@ -2417,3 +2417,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [18Jul2025 07:52:46.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
 [18Jul2025 07:53:21.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jul2025 07:53:22.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 07:55:48.759] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/18, l='ServerLevel[world]', x=25.52, y=60.00, z=-40.50] died, message: 'Nitwit discovered the floor was lava'
+[18Jul2025 07:58:21.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 07:58:22.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 08:01:52.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [A Terrifying Entrance]
+[18Jul2025 08:02:32.419] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1885 -583 -583 VisualFallingBlockEntity['Falling Stone'/15889, l='ServerLevel[world]', x=-1884.50, y=105.00, z=-582.50]
+[18Jul2025 08:03:00.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Undead Guard]
+[18Jul2025 08:03:08.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Living Armor]
+[18Jul2025 08:03:10.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Haunted Guard
+[18Jul2025 08:03:10.114] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1882, 96, -593) minecraft:overworld
+[18Jul2025 08:03:22.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 08:03:22.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 08:03:27.419] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 08:03:27.420] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 08:03:27.420] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jul2025 08:03:27.420] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[18Jul2025 08:03:27.421] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
