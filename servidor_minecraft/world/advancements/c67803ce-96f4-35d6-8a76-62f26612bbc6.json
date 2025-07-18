@@ -821,6 +821,7 @@
       "minecraft:spider": "2025-07-17 00:27:44 +0000",
       "minecraft:creeper": "2025-07-17 00:31:06 +0000",
       "minecraft:silverfish": "2025-07-17 01:03:10 +0000",
+      "minecraft:enderman": "2025-07-18 23:16:14 +0000",
       "minecraft:zombie": "2025-07-16 23:55:09 +0000"
     },
     "done": false
@@ -2918,6 +2919,108 @@
       "has_item": "2025-07-18 22:08:47 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-07-18 23:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-07-18 23:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-07-18 23:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-07-18 23:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-07-18 23:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-07-18 23:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-07-18 23:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-07-18 23:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-07-18 23:11:35 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/uchigatana_katana": {
+    "criteria": {
+      "has_diamond": "2025-07-18 23:11:35 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador3_helmet": {
+    "criteria": {
+      "has_diamond": "2025-07-18 23:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-07-18 23:11:35 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/uchigatana": {
+    "criteria": {
+      "has_diamond": "2025-07-18 23:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-07-18 23:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-18 23:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-07-18 23:11:35 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_0": "2025-07-18 23:11:47 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

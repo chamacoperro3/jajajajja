@@ -104,6 +104,7 @@
       "minecraft:dripstone_caves": "2025-07-16 23:12:58 +0000",
       "minecraft:snowy_taiga": "2025-07-17 05:15:27 +0000",
       "minecraft:grove": "2025-07-17 05:22:30 +0000",
+      "minecraft:jagged_peaks": "2025-07-18 22:54:03 +0000",
       "minecraft:cold_ocean": "2025-07-17 00:31:28 +0000",
       "minecraft:forest": "2025-07-16 22:49:37 +0000",
       "minecraft:deep_cold_ocean": "2025-07-17 04:54:42 +0000",
@@ -5003,117 +5004,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
-      "has_potato": "2025-07-18 09:20:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/ginkgo_fence": {
-    "criteria": {
-      "has_planks": "2025-07-18 08:04:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2025-07-18 08:10:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-07-18 09:20:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-07-18 09:36:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-18 09:08:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/ginkgo_sign": {
-    "criteria": {
-      "has_planks": "2025-07-18 08:04:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-07-18 09:36:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2025-07-18 09:51:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/ginkgo_door": {
-    "criteria": {
-      "has_planks": "2025-07-18 08:04:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-07-18 08:03:57 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_all_bosses": {
-    "criteria": {
-      "cataclysm:maledictus": "2025-07-18 08:32:35 +0000"
-    },
-    "done": false
-  },
-  "legendary_monsters:defeat_frostbitten_golem": {
-    "criteria": {
-      "frostbitten_golem": "2025-07-18 08:51:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-18 09:08:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/ginkgo_planks": {
-    "criteria": {
-      "has_logs": "2025-07-18 08:04:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/ginkgo_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-18 08:04:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-07-18 08:19:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-07-18 09:36:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-18 09:08:32 +0000"
+      "has_iron_nugget": "2025-07-18 07:23:02 +0000"
     },
     "done": true
   },
@@ -5123,59 +5016,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/ginkgo_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-18 08:04:37 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_posessed_paladin": {
-    "criteria": {
-      "ambusher": "2025-07-18 08:06:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/ginkgo_slab": {
-    "criteria": {
-      "has_planks": "2025-07-18 08:04:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-18 09:08:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-07-18 08:29:40 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_frostbitten_temple": {
-    "criteria": {
-      "frostbitten_temple": "2025-07-18 08:50:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-07-18 07:42:01 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-07-18 09:20:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2025-07-18 08:19:33 +0000"
-    },
-    "done": false
   },
   "legendary_monsters:locate_abandoned_crypt": {
     "criteria": {
@@ -5183,9 +5028,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+  "legendary_monsters:defeat_haunted_guard": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-07-18 09:08:32 +0000"
+      "ambusher": "2025-07-18 08:03:00 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_haunted_knight": {
+    "criteria": {
+      "ambusher": "2025-07-18 08:03:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-18 08:03:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ginkgo_planks": {
+    "criteria": {
+      "has_logs": "2025-07-18 08:04:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ginkgo_wood": {
+    "criteria": {
+      "has_log": "2025-07-18 08:04:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ginkgo_fence": {
+    "criteria": {
+      "has_planks": "2025-07-18 08:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ginkgo_sign": {
+    "criteria": {
+      "has_planks": "2025-07-18 08:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/ginkgo_door": {
+    "criteria": {
+      "has_planks": "2025-07-18 08:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/ginkgo_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-18 08:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/ginkgo_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-18 08:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ginkgo_slab": {
+    "criteria": {
+      "has_planks": "2025-07-18 08:04:37 +0000"
     },
     "done": true
   },
@@ -5201,9 +5106,15 @@
     },
     "done": true
   },
-  "legendary_monsters:defeat_haunted_guard": {
+  "legendary_monsters:defeat_posessed_paladin": {
     "criteria": {
-      "ambusher": "2025-07-18 08:03:00 +0000"
+      "ambusher": "2025-07-18 08:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-07-18 08:10:22 +0000"
     },
     "done": true
   },
@@ -5213,27 +5124,21 @@
     },
     "done": true
   },
-  "cataclysm:kill_maledictus": {
+  "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
-      "ignis": "2025-07-18 08:32:35 +0000"
+      "has_brick": "2025-07-18 08:19:33 +0000"
     },
     "done": true
   },
-  "legendary_monsters:defeat_haunted_knight": {
+  "minecraft:adventure/salvage_sherd": {
     "criteria": {
-      "ambusher": "2025-07-18 08:03:08 +0000"
+      "has_sherd": "2025-07-18 08:19:33 +0000"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+  "minecraft:nether/get_wither_skull": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-07-18 09:08:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/ginkgo_wood": {
-    "criteria": {
-      "has_log": "2025-07-18 08:04:19 +0000"
+      "wither_skull": "2025-07-18 08:29:40 +0000"
     },
     "done": true
   },
@@ -5243,9 +5148,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "cataclysm:kill_all_bosses": {
     "criteria": {
-      "has_iron_nugget": "2025-07-18 07:23:02 +0000"
+      "cataclysm:maledictus": "2025-07-18 08:32:35 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-07-18 08:32:35 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_frostbitten_temple": {
+    "criteria": {
+      "frostbitten_temple": "2025-07-18 08:50:47 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_frostbitten_golem": {
+    "criteria": {
+      "frostbitten_golem": "2025-07-18 08:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-18 09:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-18 09:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-18 09:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-18 09:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-18 09:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-18 09:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-18 09:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-18 09:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-18 09:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-07-18 09:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-07-18 09:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-18 09:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-07-18 09:51:50 +0000"
     },
     "done": true
   },
