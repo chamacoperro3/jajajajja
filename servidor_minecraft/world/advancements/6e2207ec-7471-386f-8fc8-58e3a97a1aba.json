@@ -593,6 +593,7 @@
       "minecraft:spider": "2025-07-16 23:22:22 +0000",
       "minecraft:creeper": "2025-07-17 22:20:16 +0000",
       "minecraft:cave_spider": "2025-07-17 22:09:33 +0000",
+      "minecraft:stray": "2025-07-18 05:47:28 +0000",
       "minecraft:zombie": "2025-07-16 22:43:56 +0000"
     },
     "done": false
@@ -3547,6 +3548,12 @@
   "legendary_monsters:defeat_frostbitten_golem": {
     "criteria": {
       "frostbitten_golem": "2025-07-18 05:18:39 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-07-18 05:42:47 +0000"
     },
     "done": true
   },
