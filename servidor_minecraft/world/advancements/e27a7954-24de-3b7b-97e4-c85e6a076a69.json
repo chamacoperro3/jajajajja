@@ -4822,6 +4822,30 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-07-18 04:26:42 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:unitywith_darknessachievement": {
+    "criteria": {
+      "unitywith_darknessachievement_0": "2025-07-18 04:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-18 05:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-18 05:02:27 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2025-07-18 05:06:30 +0000"
@@ -4831,12 +4855,6 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-07-18 05:08:27 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:unitywith_darknessachievement": {
-    "criteria": {
-      "unitywith_darknessachievement_0": "2025-07-18 04:58:12 +0000"
     },
     "done": true
   },
@@ -4852,33 +4870,93 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:squireofthe_dark_lord": {
-    "criteria": {
-      "squireofthe_dark_lord_0": "2025-07-18 05:27:01 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-07-18 05:02:27 +0000"
-    },
-    "done": true
-  },
   "born_in_chaos_v1:dark_blacksmith": {
     "criteria": {
       "dark_blacksmith_0": "2025-07-18 05:26:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
-      "has_iron_block": "2025-07-18 05:02:27 +0000"
+      "squireofthe_dark_lord_0": "2025-07-18 05:27:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-18 06:10:05 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:the_wind_darkening": {
+  "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
-      "the_wind_darkening_0": "2025-07-18 04:26:42 +0000"
+      "has_boat": "2025-07-18 06:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-18 06:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-18 06:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-18 06:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-18 06:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-18 06:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-18 06:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-07-18 06:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-18 06:21:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-18 06:21:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-18 06:21:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-07-18 06:30:24 +0000"
     },
     "done": true
   },

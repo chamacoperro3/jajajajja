@@ -3522,27 +3522,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
+  "legendary_monsters:locate_frostbitten_temple": {
     "criteria": {
-      "has_flint": "2025-07-18 05:20:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_pickaxe": "2025-07-18 05:20:34 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_cloudy_temple": {
-    "criteria": {
-      "cloudy_temple": "2025-07-18 05:22:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_pickaxe": "2025-07-18 05:20:34 +0000"
+      "frostbitten_temple": "2025-07-18 05:13:50 +0000"
     },
     "done": true
   },
@@ -3552,15 +3534,27 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:bypassingthe_expiration_date": {
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
-      "bypassingthe_expiration_date_0": "2025-07-18 05:42:47 +0000"
+      "has_golden_pickaxe": "2025-07-18 05:20:34 +0000"
     },
     "done": true
   },
-  "legendary_monsters:locate_frostbitten_temple": {
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
-      "frostbitten_temple": "2025-07-18 05:13:50 +0000"
+      "has_golden_pickaxe": "2025-07-18 05:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-18 05:20:39 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-07-18 05:22:24 +0000"
     },
     "done": true
   },
@@ -3570,15 +3564,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-18 05:27:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-07-18 05:29:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
     "criteria": {
-      "has_log": "2025-07-18 05:27:56 +0000"
+      "bypassingthe_expiration_date_0": "2025-07-18 05:42:47 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_helmet": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-18 06:05:48 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_leggings": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-18 06:05:48 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_chestplate": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-18 06:05:48 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_boots": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-18 06:05:48 +0000"
     },
     "done": true
   },
