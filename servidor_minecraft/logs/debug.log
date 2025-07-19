@@ -14404,3 +14404,43 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [19Jul2025 01:05:16.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Jul2025 01:10:16.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Jul2025 01:10:16.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 01:15:16.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 01:15:16.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 01:19:56.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 fell from a high place
+[19Jul2025 01:19:56.604] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(841, 72, 1189) minecraft:overworld
+[19Jul2025 01:20:04.062] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 01:20:04.063] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 01:20:04.063] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 cast_time_ring
+[19Jul2025 01:20:04.063] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[19Jul2025 01:20:04.063] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 01:20:04.063] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 01:20:04.063] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 01:20:04.064] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 01:20:04.064] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 01:20:04.064] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 01:20:16.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 01:20:16.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 01:21:33.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved wrongly!
+[19Jul2025 01:22:33.755] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 794 1202 1202 VisualFallingBlockEntity['Falling Stone'/112113, l='ServerLevel[world]', x=794.50, y=62.00, z=1202.50]
+[19Jul2025 01:22:39.749] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 788 1200 1200 VisualFallingBlockEntity['Falling Stone'/112156, l='ServerLevel[world]', x=788.50, y=61.00, z=1200.50]
+[19Jul2025 01:22:39.753] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 791 1200 1200 VisualFallingBlockEntity['Falling Stone'/112157, l='ServerLevel[world]', x=791.50, y=65.00, z=1200.50]
+[19Jul2025 01:22:42.250] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 784 1203 1203 VisualFallingBlockEntity['Falling Stone'/112188, l='ServerLevel[world]', x=784.50, y=62.00, z=1203.50]
+[19Jul2025 01:22:50.703] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 776 1199 1199 VisualFallingBlockEntity['Falling Stone'/112271, l='ServerLevel[world]', x=776.50, y=61.00, z=1199.50]
+[19Jul2025 01:22:53.449] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 772 1200 1200 VisualFallingBlockEntity['Falling Stone'/112300, l='ServerLevel[world]', x=772.50, y=61.00, z=1200.50]
+[19Jul2025 01:22:55.950] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 765 1203 1203 VisualFallingBlockEntity['Falling Stone'/112336, l='ServerLevel[world]', x=765.50, y=61.00, z=1203.50]
+[19Jul2025 01:22:55.953] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 764 1203 1203 VisualFallingBlockEntity['Falling Stone'/112337, l='ServerLevel[world]', x=764.50, y=64.00, z=1203.50]
+[19Jul2025 01:22:58.753] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 759 1202 1202 VisualFallingBlockEntity['Falling Stone'/112370, l='ServerLevel[world]', x=759.50, y=64.00, z=1202.50]
+[19Jul2025 01:23:07.253] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 743 1202 1202 VisualFallingBlockEntity['Falling Stone'/112424, l='ServerLevel[world]', x=743.50, y=62.00, z=1202.50]
+[19Jul2025 01:24:04.398] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 718 1200 1200 VisualFallingBlockEntity['Falling Stone'/112769, l='ServerLevel[world]', x=718.50, y=63.00, z=1200.50]
+[19Jul2025 01:24:10.707] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:dirt} 706 1199 1199 VisualFallingBlockEntity['Falling Dirt'/112831, l='ServerLevel[world]', x=706.50, y=65.00, z=1199.50]
+[19Jul2025 01:24:10.708] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:mycelium}[snowy=false] 704 1202 1202 VisualFallingBlockEntity['Falling Mycelium'/112832, l='ServerLevel[world]', x=704.50, y=64.00, z=1202.50]
+[19Jul2025 01:25:16.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 01:25:16.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 01:30:16.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 01:30:16.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 01:35:16.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 01:35:16.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 01:37:06.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 01:38:08.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Dungeon Delving]
+[19Jul2025 01:40:16.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 01:40:16.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
