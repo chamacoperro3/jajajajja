@@ -287,3 +287,4 @@
 [19Jul2025 00:57:00.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur joined the game
 [19Jul2025 00:59:32.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has reached the goal [New Age Librarian]
 [19Jul2025 01:00:22.701] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/103443, l='ServerLevel[world]', x=1013.80, y=63.50, z=957.07] died, message: 'Villager was slain by zilasaur'
+[19Jul2025 01:04:49.309] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
