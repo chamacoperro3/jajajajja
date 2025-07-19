@@ -1,32 +1,32 @@
-[19Jul2025 02:27:58.909] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[19Jul2025 02:27:58.912] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[19Jul2025 02:27:59.928] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[19Jul2025 02:27:59.994] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/jajajajja/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[19Jul2025 02:28:00.270] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jajajajja/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[19Jul2025 02:28:00.272] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jajajajja/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[19Jul2025 02:28:00.274] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jajajajja/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[19Jul2025 02:28:00.275] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jajajajja/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[19Jul2025 02:28:00.493] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[19Jul2025 02:28:02.517] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[19Jul2025 02:28:02.645] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[19Jul2025 02:28:02.708] [main/WARN] [mixin/]: Reference map 'knightquest.refmap.json' for knightquest.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Jul2025 02:28:02.710] [main/WARN] [mixin/]: Reference map 'knightquest.refmap.json' for knightquest.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Jul2025 02:28:02.812] [main/WARN] [mixin/]: Reference map 'knightlib.refmap.json' for knightlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Jul2025 02:28:02.813] [main/WARN] [mixin/]: Reference map 'knightlib.refmap.json' for knightlib.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Jul2025 02:28:02.831] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Jul2025 02:28:03.788] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER
-[19Jul2025 02:28:03.790] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/Gui (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER)
-[19Jul2025 02:28:03.791] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.Gui was not found mixins.prehistoricfauna.json:GuiMixin
-[19Jul2025 02:28:03.861] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/mojang/blaze3d/vertex/VertexFormat$Mode for invalid dist DEDICATED_SERVER
-[19Jul2025 02:28:03.862] [main/WARN] [mixin/]: Error loading class: com/mojang/blaze3d/vertex/VertexFormat$Mode (java.lang.RuntimeException: Attempted to load class com/mojang/blaze3d/vertex/VertexFormat$Mode for invalid dist DEDICATED_SERVER)
-[19Jul2025 02:28:03.879] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[19Jul2025 02:28:10.963] [modloading-worker-0/INFO] [hammered/]: Initializing...
-[19Jul2025 02:28:10.998] [modloading-worker-0/INFO] [hammered/]: Registered Items.
-[19Jul2025 02:28:11.003] [modloading-worker-0/INFO] [hammered/]: Registered Enchantments.
-[19Jul2025 02:28:11.004] [modloading-worker-0/INFO] [hammered/]: Registered Villager Trades.
-[19Jul2025 02:28:11.004] [modloading-worker-0/INFO] [hammered/]: Initialized
-[19Jul2025 02:28:11.151] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@7c52fc81 on thread Thread[modloading-worker-0,5,main]
-[19Jul2025 02:28:11.155] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[19Jul2025 03:38:47.687] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[19Jul2025 03:38:47.690] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[19Jul2025 03:38:48.704] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[19Jul2025 03:38:48.778] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/jajajajja/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[19Jul2025 03:38:49.041] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jajajajja/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[19Jul2025 03:38:49.043] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jajajajja/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[19Jul2025 03:38:49.044] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jajajajja/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[19Jul2025 03:38:49.045] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jajajajja/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[19Jul2025 03:38:49.215] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[19Jul2025 03:38:51.275] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[19Jul2025 03:38:51.404] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[19Jul2025 03:38:51.464] [main/WARN] [mixin/]: Reference map 'knightquest.refmap.json' for knightquest.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Jul2025 03:38:51.467] [main/WARN] [mixin/]: Reference map 'knightquest.refmap.json' for knightquest.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Jul2025 03:38:51.575] [main/WARN] [mixin/]: Reference map 'knightlib.refmap.json' for knightlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Jul2025 03:38:51.577] [main/WARN] [mixin/]: Reference map 'knightlib.refmap.json' for knightlib.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Jul2025 03:38:51.594] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Jul2025 03:38:52.557] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER
+[19Jul2025 03:38:52.558] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/Gui (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER)
+[19Jul2025 03:38:52.559] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.Gui was not found mixins.prehistoricfauna.json:GuiMixin
+[19Jul2025 03:38:52.625] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/mojang/blaze3d/vertex/VertexFormat$Mode for invalid dist DEDICATED_SERVER
+[19Jul2025 03:38:52.626] [main/WARN] [mixin/]: Error loading class: com/mojang/blaze3d/vertex/VertexFormat$Mode (java.lang.RuntimeException: Attempted to load class com/mojang/blaze3d/vertex/VertexFormat$Mode for invalid dist DEDICATED_SERVER)
+[19Jul2025 03:38:52.643] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[19Jul2025 03:38:59.533] [modloading-worker-0/INFO] [hammered/]: Initializing...
+[19Jul2025 03:38:59.580] [modloading-worker-0/INFO] [hammered/]: Registered Items.
+[19Jul2025 03:38:59.583] [modloading-worker-0/INFO] [hammered/]: Registered Enchantments.
+[19Jul2025 03:38:59.589] [modloading-worker-0/INFO] [hammered/]: Registered Villager Trades.
+[19Jul2025 03:38:59.590] [modloading-worker-0/INFO] [hammered/]: Initialized
+[19Jul2025 03:38:59.729] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@7c52fc81 on thread Thread[modloading-worker-0,5,main]
+[19Jul2025 03:38:59.733] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
@@ -74,17 +74,17 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[19Jul2025 02:28:11.168] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[19Jul2025 02:28:12.307] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[19Jul2025 02:28:12.404] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[19Jul2025 02:28:12.431] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[19Jul2025 02:28:12.432] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[19Jul2025 02:28:12.618] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[19Jul2025 02:28:12.618] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[19Jul2025 02:28:13.559] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@6a85a13 has been registered twice for the same name treechop:chop_wood.
-[19Jul2025 02:28:16.206] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[19Jul2025 02:28:17.033] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[19Jul2025 02:28:17.299] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[19Jul2025 03:38:59.736] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[19Jul2025 03:39:00.882] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[19Jul2025 03:39:00.925] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[19Jul2025 03:39:00.951] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[19Jul2025 03:39:00.953] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[19Jul2025 03:39:01.096] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[19Jul2025 03:39:01.096] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[19Jul2025 03:39:01.964] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@5c7673b8 has been registered twice for the same name treechop:chop_wood.
+[19Jul2025 03:39:04.848] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[19Jul2025 03:39:05.521] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[19Jul2025 03:39:05.800] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -99,13 +99,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[19Jul2025 02:28:17.302] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[19Jul2025 02:28:17.328] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
-[19Jul2025 02:28:17.596] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[19Jul2025 02:28:17.598] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Starting version check at https://raw.githubusercontent.com/Lothrazar/SimpleTomb/trunk/1.20/update.json
-[19Jul2025 02:28:17.613] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Found status: BETA Current: 1.20.1-1.3.0 Target: 1.3.0
-[19Jul2025 02:28:17.616] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
-[19Jul2025 02:28:17.628] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[19Jul2025 03:39:05.802] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[19Jul2025 03:39:05.824] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[19Jul2025 03:39:06.027] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[19Jul2025 03:39:06.027] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Starting version check at https://raw.githubusercontent.com/Lothrazar/SimpleTomb/trunk/1.20/update.json
+[19Jul2025 03:39:06.045] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Found status: BETA Current: 1.20.1-1.3.0 Target: 1.3.0
+[19Jul2025 03:39:06.053] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[19Jul2025 03:39:06.065] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -120,15 +120,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[19Jul2025 02:28:19.659] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19Jul2025 02:28:21.484] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/jajajajja/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/assets/.mcassetsroot' uses unexpected schema
-[19Jul2025 02:28:21.484] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/jajajajja/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/data/.mcassetsroot' uses unexpected schema
-[19Jul2025 02:28:23.239] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[19Jul2025 02:28:23.385] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.9.4 MC 1.20.1.jar)
-[19Jul2025 02:28:24.124] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[19Jul2025 02:28:24.125] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[19Jul2025 02:28:24.125] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[19Jul2025 02:28:24.189] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
+[19Jul2025 03:39:08.260] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19Jul2025 03:39:10.090] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/jajajajja/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/assets/.mcassetsroot' uses unexpected schema
+[19Jul2025 03:39:10.090] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/jajajajja/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/data/.mcassetsroot' uses unexpected schema
+[19Jul2025 03:39:11.985] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[19Jul2025 03:39:12.044] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.9.4 MC 1.20.1.jar)
+[19Jul2025 03:39:12.834] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[19Jul2025 03:39:12.835] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[19Jul2025 03:39:12.835] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[19Jul2025 03:39:12.910] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -166,7 +166,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dr
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[19Jul2025 02:28:24.193] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
+[19Jul2025 03:39:12.914] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -195,7 +195,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[19Jul2025 02:28:24.209] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
+[19Jul2025 03:39:12.920] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23170!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23170!/:?]
@@ -228,92 +228,479 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[19Jul2025 02:28:24.235] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
-[19Jul2025 02:28:24.281] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement knightquest:recipes/misc/empty_goblet: Missing criteria, expected to find a JsonObject
-[19Jul2025 02:28:24.419] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2198 advancements
-[19Jul2025 02:28:24.447] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
-[19Jul2025 02:28:24.454] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[19Jul2025 02:28:24.476] [main/INFO] [superlord.prehistoricfauna.common.recipes.PaleontologyTableRecipeJsonManager/]: Data loader for prehistoricfauna/paleontology_table loaded 3 jsons
-[19Jul2025 02:28:24.510] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[19Jul2025 02:28:26.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[19Jul2025 02:28:26.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[19Jul2025 02:28:26.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[19Jul2025 02:28:26.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[19Jul2025 02:28:26.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[19Jul2025 02:28:26.308] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[19Jul2025 02:28:26.391] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19Jul2025 02:28:26.392] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[19Jul2025 02:28:26.394] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19Jul2025 02:28:26.394] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[19Jul2025 02:28:26.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[19Jul2025 02:28:29.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[19Jul2025 02:28:33.111] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jul2025 02:28:33.161] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jul2025 02:28:33.193] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jul2025 02:28:33.235] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jul2025 02:28:33.243] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jul2025 02:28:33.264] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jul2025 02:28:33.283] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jul2025 02:28:33.301] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jul2025 02:28:33.611] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jul2025 02:28:34.106] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
-[19Jul2025 02:28:34.607] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
-[19Jul2025 02:28:34.818] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5212 ms
-[19Jul2025 02:28:34.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.410s)! For help, type "help"
-[19Jul2025 02:28:34.866] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[19Jul2025 02:28:34.867] [Server thread/INFO] [superlord.prehistoricfauna.common.recipes.PaleontologyTableRecipeJsonManager/]: Registered 3 jsons with items!
-[19Jul2025 02:29:29.177] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doomm[/127.177.169.2:52877] logged in with entity id 103 at (-305.21261407572695, 67.3415999853611, -126.74121815116379)
-[19Jul2025 02:29:29.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doomm joined the game
-[19Jul2025 02:30:57.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doomm lost connection: Disconnected
-[19Jul2025 02:30:57.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doomm left the game
-[19Jul2025 02:32:36.180] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doomm[/127.177.169.2:38517] logged in with entity id 760 at (-304.4611851294841, 67.0, -124.09827359325635)
-[19Jul2025 02:32:36.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doomm joined the game
-[19Jul2025 02:32:38.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doomm lost connection: Disconnected
-[19Jul2025 02:32:38.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doomm left the game
-[19Jul2025 02:40:57.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doommm[/127.177.169.2:57609] logged in with entity id 974 at (-42.5, 73.0, -21.5)
-[19Jul2025 02:40:57.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doommm joined the game
-[19Jul2025 02:42:44.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doommm has made the advancement [Stone Age]
-[19Jul2025 02:43:45.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doommm has made the advancement [Getting an Upgrade]
-[19Jul2025 02:47:58.823] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doommm lost connection: Disconnected
-[19Jul2025 02:47:58.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doommm left the game
-[19Jul2025 02:55:07.317] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e67f93b[id=<null>,name=Wacht_Of_Doommm,properties={},legacy=false] (/127.177.169.2:48855) lost connection: Disconnected
-[19Jul2025 03:04:13.017] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6b5488b3[id=<null>,name=Wacht_Of_Doommm,properties={},legacy=false] (/127.177.169.2:51685) lost connection: Disconnected
-[19Jul2025 03:10:45.116] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@66759c1b[id=<null>,name=Wacht_Of_Doommmm,properties={},legacy=false] (/127.177.169.2:50669) lost connection: Disconnected
-[19Jul2025 03:13:22.317] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6922c74d[id=<null>,name=Wacht_Of_Doommmm,properties={},legacy=false] (/127.177.169.2:40115) lost connection: Disconnected
-[19Jul2025 03:13:43.872] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doommmm[/127.177.169.2:36777] logged in with entity id 2439 at (-52.5, 78.0, -34.5)
-[19Jul2025 03:13:43.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doommmm joined the game
-[19Jul2025 03:15:21.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doommmm lost connection: Disconnected
-[19Jul2025 03:15:21.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doommmm left the game
-[19Jul2025 03:18:18.620] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Dom[/127.177.169.2:58521] logged in with entity id 3061 at (-44.5, 78.0, -38.5)
-[19Jul2025 03:18:18.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Dom joined the game
-[19Jul2025 03:20:42.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Dom was slain by Spider
-[19Jul2025 03:20:42.140] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-267, 65, -122) minecraft:overworld
-[19Jul2025 03:23:03.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Dom lost connection: Disconnected
-[19Jul2025 03:23:03.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Dom left the game
-[19Jul2025 03:24:56.670] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Dmm[/127.177.169.2:36889] logged in with entity id 4411 at (-38.5, 77.0, -38.5)
-[19Jul2025 03:24:56.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Dmm joined the game
-[19Jul2025 03:27:41.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Dmm lost connection: Disconnected
-[19Jul2025 03:27:41.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Dmm left the game
-[19Jul2025 03:28:20.166] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6333a9eb[id=<null>,name=Wacht_Of_Dmm,properties={},legacy=false] (/127.177.169.2:50283) lost connection: Disconnected
-[19Jul2025 03:28:57.267] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@12c97e1f[id=<null>,name=Wacht_Of_Dmm,properties={},legacy=false] (/127.177.169.2:38545) lost connection: Disconnected
-[19Jul2025 03:29:06.924] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Dmm[/127.177.169.2:59031] logged in with entity id 5147 at (-303.794022080782, 67.0, -127.45567215682648)
-[19Jul2025 03:29:06.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Dmm joined the game
-[19Jul2025 03:29:39.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Dmm lost connection: Disconnected
-[19Jul2025 03:29:39.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Dmm left the game
-[19Jul2025 03:32:07.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[19Jul2025 03:32:07.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[19Jul2025 03:32:07.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[19Jul2025 03:32:07.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[19Jul2025 03:32:08.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19Jul2025 03:32:08.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/prehistoricfauna:cretaceous
-[19Jul2025 03:32:08.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/prehistoricfauna:jurassic
-[19Jul2025 03:32:08.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/prehistoricfauna:triassic
-[19Jul2025 03:32:08.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19Jul2025 03:32:08.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19Jul2025 03:32:08.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19Jul2025 03:32:08.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cretaceous): All chunks are saved
-[19Jul2025 03:32:08.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (jurassic): All chunks are saved
-[19Jul2025 03:32:08.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (triassic): All chunks are saved
-[19Jul2025 03:32:08.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19Jul2025 03:32:08.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19Jul2025 03:32:08.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19Jul2025 03:39:12.942] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[19Jul2025 03:39:12.982] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement knightquest:recipes/misc/empty_goblet: Missing criteria, expected to find a JsonObject
+[19Jul2025 03:39:13.068] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2198 advancements
+[19Jul2025 03:39:13.091] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[19Jul2025 03:39:13.098] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[19Jul2025 03:39:13.118] [main/INFO] [superlord.prehistoricfauna.common.recipes.PaleontologyTableRecipeJsonManager/]: Data loader for prehistoricfauna/paleontology_table loaded 3 jsons
+[19Jul2025 03:39:13.122] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[19Jul2025 03:39:14.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[19Jul2025 03:39:14.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[19Jul2025 03:39:14.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[19Jul2025 03:39:14.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[19Jul2025 03:39:14.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[19Jul2025 03:39:14.915] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[19Jul2025 03:39:15.010] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19Jul2025 03:39:15.010] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[19Jul2025 03:39:15.011] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19Jul2025 03:39:15.011] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[19Jul2025 03:39:15.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[19Jul2025 03:39:18.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[19Jul2025 03:39:21.374] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jul2025 03:39:21.441] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jul2025 03:39:21.468] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jul2025 03:39:21.491] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jul2025 03:39:21.501] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jul2025 03:39:21.507] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jul2025 03:39:21.519] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jul2025 03:39:21.614] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jul2025 03:39:22.095] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jul2025 03:39:22.594] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 35%
+[19Jul2025 03:39:23.052] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4959 ms
+[19Jul2025 03:39:23.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.030s)! For help, type "help"
+[19Jul2025 03:39:23.093] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[19Jul2025 03:39:23.095] [Server thread/INFO] [superlord.prehistoricfauna.common.recipes.PaleontologyTableRecipeJsonManager/]: Registered 3 jsons with items!
+[19Jul2025 03:39:44.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xUNIx10[/127.211.36.91:57335] logged in with entity id 116 at (-814.22588688144, 33.0, 47.323055781582596)
+[19Jul2025 03:39:44.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 joined the game
+[19Jul2025 03:39:46.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2298ms or 45 ticks behind
+[19Jul2025 03:40:04.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zilasaur[/127.211.36.91:51801] logged in with entity id 423 at (-736.3000000119209, 19.0, 150.30000001192093)
+[19Jul2025 03:40:04.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur joined the game
+[19Jul2025 03:58:55.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has reached the goal [Senior Summoner]
+[19Jul2025 04:09:24.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has completed the challenge [The Power of the Sun]
+[19Jul2025 04:13:11.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 04:15:39.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has completed the challenge [Necronomicon]
+[19Jul2025 04:27:06.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of xUNIx10) moved wrongly! 0.3156368709446724
+[19Jul2025 04:46:39.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has reached the goal [Horror Under the Mantle]
+[19Jul2025 05:03:47.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [The Time Masheen]
+[19Jul2025 05:03:47.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [There's Always a T-Rex]
+[19Jul2025 05:03:47.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4439ms or 88 ticks behind
+[19Jul2025 05:03:47.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! 6.348886049365433,0.41999998688697815,-8.403569840733425
+[19Jul2025 05:05:16.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved wrongly!
+[19Jul2025 05:08:56.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 05:11:44.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 lost connection: Disconnected
+[19Jul2025 05:11:44.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
+[19Jul2025 05:13:28.523] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xUNIx10[/127.211.36.91:46533] logged in with entity id 49791 at (871.0112049064977, 72.0, 1211.6241288002432)
+[19Jul2025 05:13:28.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 joined the game
+[19Jul2025 05:14:13.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 05:15:04.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 experienced kinetic energy
+[19Jul2025 05:15:04.137] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(485, 78, 15) minecraft:overworld
+[19Jul2025 05:17:39.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 05:19:19.671] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 05:19:19.671] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 05:19:19.671] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 emerald_stoneplate_ring
+[19Jul2025 05:19:19.671] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[19Jul2025 05:19:19.672] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 05:19:19.672] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 05:19:19.672] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 05:19:19.673] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 05:19:19.673] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 05:19:19.673] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 05:22:11.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! -3.9967628374504898,13.053426686409438,12.499682148741442
+[19Jul2025 05:22:43.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! 17.103183395288852,2.3420066932558967,-6.463211094945166
+[19Jul2025 05:22:59.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! 15.372257544166246,-2.0975592993033843,-7.990302739972606
+[19Jul2025 05:22:59.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of zilasaur) moved too quickly! 9.076351884030885,4.91263680787516,-0.10572396808402118
+[19Jul2025 05:23:03.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! -17.763672854289098,-1.3901815054475435,-11.837711121811793
+[19Jul2025 05:23:11.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! 1.6856904562764612,-1.163010288506399,-19.209625723017723
+[19Jul2025 05:25:12.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has reached the goal [Dark Creator]
+[19Jul2025 05:26:47.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 05:34:28.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 05:34:57.089] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1257, y=69, z=282} BlockPos{x=-1258, y=67, z=282}
+[19Jul2025 05:34:57.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1257, y=69, z=282} BlockPos{x=-1258, y=67, z=282}
+[19Jul2025 05:34:57.477] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1259, y=69, z=282} BlockPos{x=-1260, y=67, z=282}
+[19Jul2025 05:34:57.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1260, y=69, z=282} BlockPos{x=-1261, y=67, z=281}
+[19Jul2025 05:34:58.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1263, y=69, z=282} BlockPos{x=-1264, y=67, z=281}
+[19Jul2025 05:34:58.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1265, y=69, z=283} BlockPos{x=-1266, y=67, z=284}
+[19Jul2025 05:35:07.091] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1270, y=68, z=288} BlockPos{x=-1271, y=66, z=288}
+[19Jul2025 05:35:07.338] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1270, y=68, z=287} BlockPos{x=-1272, y=66, z=287}
+[19Jul2025 05:35:07.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1270, y=68, z=287} BlockPos{x=-1272, y=66, z=287}
+[19Jul2025 05:35:07.738] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1271, y=68, z=286} BlockPos{x=-1272, y=66, z=286}
+[19Jul2025 05:35:07.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1271, y=68, z=286} BlockPos{x=-1272, y=66, z=286}
+[19Jul2025 05:35:07.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1272, y=68, z=286} BlockPos{x=-1272, y=66, z=286}
+[19Jul2025 05:35:53.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 05:37:05.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 05:37:43.472] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-76, y=-53, z=214}
+[19Jul2025 05:37:43.474] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-79, y=-45, z=209}
+[19Jul2025 05:37:55.591] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-73, y=-40, z=204}
+[19Jul2025 05:37:55.591] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-72, y=-46, z=209}
+[19Jul2025 05:38:25.470] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1091, y=69, z=351} BlockPos{x=-1090, y=67, z=351}
+[19Jul2025 05:38:25.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1090, y=69, z=351} BlockPos{x=-1089, y=68, z=351}
+[19Jul2025 05:38:25.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1090, y=69, z=351} BlockPos{x=-1089, y=68, z=351}
+[19Jul2025 05:38:25.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1090, y=69, z=351} BlockPos{x=-1089, y=68, z=351}
+[19Jul2025 05:38:25.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1088, y=70, z=351} BlockPos{x=-1089, y=68, z=351}
+[19Jul2025 05:38:30.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1072, y=69, z=347} BlockPos{x=-1072, y=67, z=346}
+[19Jul2025 05:38:30.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1071, y=69, z=347} BlockPos{x=-1071, y=67, z=347}
+[19Jul2025 05:38:32.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1063, y=69, z=343} BlockPos{x=-1062, y=67, z=343}
+[19Jul2025 05:38:34.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1057, y=68, z=336} BlockPos{x=-1058, y=66, z=335}
+[19Jul2025 05:38:35.394] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1060, y=68, z=334} BlockPos{x=-1060, y=67, z=333}
+[19Jul2025 05:38:38.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1072, y=68, z=339} BlockPos{x=-1073, y=66, z=339}
+[19Jul2025 05:38:39.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1078, y=68, z=339} BlockPos{x=-1079, y=66, z=338}
+[19Jul2025 05:39:09.732] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1081, y=68, z=337} BlockPos{x=-1082, y=66, z=336}
+[19Jul2025 05:39:09.787] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1081, y=68, z=337} BlockPos{x=-1082, y=66, z=336}
+[19Jul2025 05:39:15.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1099, y=68, z=331} BlockPos{x=-1100, y=66, z=330}
+[19Jul2025 05:39:47.790] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1113, y=67, z=338} BlockPos{x=-1112, y=68, z=338}
+[19Jul2025 05:39:47.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1113, y=67, z=338} BlockPos{x=-1112, y=68, z=338}
+[19Jul2025 05:39:49.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1117, y=68, z=343} BlockPos{x=-1118, y=66, z=343}
+[19Jul2025 05:39:49.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1118, y=68, z=346} BlockPos{x=-1119, y=66, z=347}
+[19Jul2025 05:39:50.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1122, y=68, z=349} BlockPos{x=-1122, y=66, z=350}
+[19Jul2025 05:39:50.739] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1122, y=68, z=349} BlockPos{x=-1122, y=66, z=350}
+[19Jul2025 05:39:50.787] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1122, y=68, z=350} BlockPos{x=-1122, y=66, z=350}
+[19Jul2025 05:39:51.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1124, y=68, z=351} BlockPos{x=-1126, y=66, z=352}
+[19Jul2025 05:39:51.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1124, y=68, z=351} BlockPos{x=-1126, y=66, z=352}
+[19Jul2025 05:39:51.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1126, y=68, z=351} BlockPos{x=-1127, y=66, z=351}
+[19Jul2025 05:40:20.383] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1088, y=70, z=352} BlockPos{x=-1087, y=68, z=352}
+[19Jul2025 05:41:11.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has completed the challenge [Hot Tourist Destinations]
+[19Jul2025 05:41:35.037] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1058, y=69, z=291} BlockPos{x=-1057, y=67, z=292}
+[19Jul2025 05:41:36.038] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1053, y=69, z=293} BlockPos{x=-1052, y=67, z=294}
+[19Jul2025 05:41:45.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1041, y=68, z=299} BlockPos{x=-1040, y=66, z=300}
+[19Jul2025 05:41:47.428] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1038, y=68, z=308} BlockPos{x=-1038, y=66, z=309}
+[19Jul2025 05:41:47.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1037, y=68, z=309} BlockPos{x=-1037, y=66, z=311}
+[19Jul2025 05:41:47.782] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1037, y=68, z=309} BlockPos{x=-1037, y=66, z=311}
+[19Jul2025 05:41:48.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1037, y=68, z=314} BlockPos{x=-1038, y=66, z=316}
+[19Jul2025 05:41:53.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1031, y=68, z=321} BlockPos{x=-1032, y=66, z=323}
+[19Jul2025 05:41:53.587] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1031, y=68, z=321} BlockPos{x=-1032, y=66, z=323}
+[19Jul2025 05:41:54.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1032, y=68, z=325} BlockPos{x=-1032, y=66, z=327}
+[19Jul2025 05:41:54.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1034, y=68, z=326} BlockPos{x=-1035, y=66, z=328}
+[19Jul2025 05:41:59.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1058, y=68, z=328} BlockPos{x=-1059, y=66, z=327}
+[19Jul2025 05:41:59.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1058, y=68, z=327} BlockPos{x=-1059, y=66, z=327}
+[19Jul2025 05:42:01.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1070, y=68, z=326} BlockPos{x=-1071, y=66, z=325}
+[19Jul2025 05:42:26.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1094, y=68, z=332} BlockPos{x=-1095, y=66, z=332}
+[19Jul2025 05:42:27.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1096, y=68, z=333} BlockPos{x=-1098, y=66, z=334}
+[19Jul2025 05:42:37.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1120, y=66, z=337} BlockPos{x=-1120, y=65, z=339}
+[19Jul2025 05:42:37.143] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1120, y=66, z=337} BlockPos{x=-1120, y=65, z=339}
+[19Jul2025 05:44:04.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1094, y=68, z=354} BlockPos{x=-1095, y=67, z=354}
+[19Jul2025 05:44:05.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1099, y=69, z=358} BlockPos{x=-1099, y=67, z=359}
+[19Jul2025 05:44:05.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1099, y=69, z=358} BlockPos{x=-1099, y=67, z=359}
+[19Jul2025 05:44:06.575] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1103, y=69, z=362} BlockPos{x=-1103, y=67, z=363}
+[19Jul2025 05:44:06.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1103, y=69, z=362} BlockPos{x=-1103, y=67, z=363}
+[19Jul2025 05:44:06.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1103, y=69, z=362} BlockPos{x=-1103, y=67, z=363}
+[19Jul2025 05:44:13.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1115, y=68, z=391} BlockPos{x=-1115, y=66, z=392}
+[19Jul2025 05:44:13.086] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1115, y=68, z=391} BlockPos{x=-1115, y=66, z=392}
+[19Jul2025 05:44:13.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1114, y=68, z=394} BlockPos{x=-1114, y=66, z=395}
+[19Jul2025 05:44:14.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1114, y=69, z=398} BlockPos{x=-1113, y=67, z=398}
+[19Jul2025 05:44:14.378] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1114, y=69, z=398} BlockPos{x=-1113, y=67, z=398}
+[19Jul2025 05:44:14.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1113, y=69, z=398} BlockPos{x=-1112, y=67, z=399}
+[19Jul2025 05:44:14.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1113, y=69, z=398} BlockPos{x=-1112, y=67, z=399}
+[19Jul2025 05:44:15.187] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1110, y=69, z=398} BlockPos{x=-1109, y=67, z=397}
+[19Jul2025 05:44:15.237] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1110, y=69, z=398} BlockPos{x=-1109, y=67, z=397}
+[19Jul2025 05:44:18.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1098, y=69, z=390} BlockPos{x=-1097, y=67, z=389}
+[19Jul2025 05:44:18.086] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1098, y=69, z=390} BlockPos{x=-1097, y=67, z=389}
+[19Jul2025 05:44:18.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1097, y=69, z=390} BlockPos{x=-1097, y=67, z=389}
+[19Jul2025 05:45:03.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1049, y=68, z=399} BlockPos{x=-1048, y=66, z=398}
+[19Jul2025 05:45:13.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1067, y=68, z=424} BlockPos{x=-1068, y=67, z=424}
+[19Jul2025 05:45:14.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1069, y=69, z=426} BlockPos{x=-1070, y=67, z=427}
+[19Jul2025 05:45:15.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1076, y=69, z=430} BlockPos{x=-1077, y=67, z=431}
+[19Jul2025 05:45:20.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1097, y=67, z=440} BlockPos{x=-1098, y=65, z=440}
+[19Jul2025 05:45:23.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1115, y=67, z=443} BlockPos{x=-1116, y=66, z=442}
+[19Jul2025 05:45:23.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1117, y=68, z=443} BlockPos{x=-1117, y=66, z=445}
+[19Jul2025 05:45:26.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1130, y=68, z=448} BlockPos{x=-1131, y=66, z=449}
+[19Jul2025 05:45:27.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1134, y=68, z=453} BlockPos{x=-1134, y=66, z=454}
+[19Jul2025 05:45:29.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1144, y=68, z=456} BlockPos{x=-1146, y=66, z=456}
+[19Jul2025 05:45:54.136] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1146, y=68, z=420} BlockPos{x=-1145, y=66, z=419}
+[19Jul2025 05:45:55.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1139, y=68, z=425} BlockPos{x=-1138, y=66, z=425}
+[19Jul2025 05:45:56.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=68, z=426} BlockPos{x=-1137, y=66, z=427}
+[19Jul2025 05:45:56.228] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=68, z=426} BlockPos{x=-1137, y=66, z=427}
+[19Jul2025 05:45:57.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1131, y=68, z=424} BlockPos{x=-1130, y=66, z=423}
+[19Jul2025 05:45:58.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1129, y=68, z=420} BlockPos{x=-1128, y=66, z=419}
+[19Jul2025 05:45:58.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1126, y=68, z=419} BlockPos{x=-1126, y=66, z=417}
+[19Jul2025 05:46:05.144] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1119, y=69, z=405} BlockPos{x=-1119, y=67, z=404}
+[19Jul2025 05:46:05.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1119, y=69, z=405} BlockPos{x=-1119, y=67, z=404}
+[19Jul2025 05:46:06.438] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1122, y=69, z=400} BlockPos{x=-1122, y=67, z=398}
+[19Jul2025 05:46:06.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1122, y=69, z=400} BlockPos{x=-1122, y=67, z=398}
+[19Jul2025 05:46:06.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1122, y=69, z=400} BlockPos{x=-1122, y=67, z=398}
+[19Jul2025 05:46:06.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1123, y=69, z=398} BlockPos{x=-1124, y=67, z=397}
+[19Jul2025 05:46:06.894] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1123, y=69, z=398} BlockPos{x=-1124, y=67, z=397}
+[19Jul2025 05:46:07.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1123, y=69, z=395} BlockPos{x=-1123, y=67, z=394}
+[19Jul2025 05:46:07.641] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1123, y=69, z=394} BlockPos{x=-1123, y=67, z=393}
+[19Jul2025 05:46:07.707] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1123, y=69, z=394} BlockPos{x=-1123, y=67, z=393}
+[19Jul2025 05:46:07.935] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1124, y=69, z=393} BlockPos{x=-1125, y=67, z=392}
+[19Jul2025 05:46:09.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1128, y=69, z=388} BlockPos{x=-1129, y=67, z=387}
+[19Jul2025 05:46:41.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Those Were the Days]
+[19Jul2025 05:47:36.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1143, y=68, z=478} BlockPos{x=-1143, y=66, z=479}
+[19Jul2025 05:47:36.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1143, y=68, z=478} BlockPos{x=-1143, y=66, z=479}
+[19Jul2025 05:47:36.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1144, y=68, z=479} BlockPos{x=-1145, y=66, z=481}
+[19Jul2025 05:47:37.392] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1147, y=68, z=484} BlockPos{x=-1148, y=66, z=485}
+[19Jul2025 05:47:37.892] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1148, y=68, z=487} BlockPos{x=-1149, y=66, z=488}
+[19Jul2025 05:47:37.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1148, y=68, z=487} BlockPos{x=-1149, y=66, z=488}
+[19Jul2025 05:47:41.234] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1157, y=68, z=503} BlockPos{x=-1158, y=66, z=505}
+[19Jul2025 05:48:37.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [War Pigs]
+[19Jul2025 05:51:35.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1342, y=68, z=534} BlockPos{x=-1343, y=66, z=535}
+[19Jul2025 05:51:35.535] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1342, y=68, z=534} BlockPos{x=-1343, y=66, z=535}
+[19Jul2025 05:51:35.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1342, y=68, z=534} BlockPos{x=-1343, y=66, z=535}
+[19Jul2025 05:51:35.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1342, y=68, z=534} BlockPos{x=-1343, y=66, z=535}
+[19Jul2025 05:51:35.682] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1342, y=68, z=534} BlockPos{x=-1343, y=66, z=535}
+[19Jul2025 05:51:35.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1344, y=68, z=534} BlockPos{x=-1343, y=66, z=535}
+[19Jul2025 05:51:36.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1345, y=68, z=537} BlockPos{x=-1345, y=66, z=539}
+[19Jul2025 05:52:13.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 05:52:35.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1352, y=68, z=591} BlockPos{x=-1353, y=66, z=592}
+[19Jul2025 05:52:35.237] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1352, y=68, z=591} BlockPos{x=-1353, y=66, z=592}
+[19Jul2025 05:52:57.864] [Server thread/INFO] [superlord.prehistoricfauna.PrehistoricFauna/]: BOAT ENTITY: net.minecraft.network.syncher.SynchedEntityData@137e91e5
+[19Jul2025 05:53:01.614] [Server thread/INFO] [superlord.prehistoricfauna.PrehistoricFauna/]: BOAT ENTITY: net.minecraft.network.syncher.SynchedEntityData@3e93a0b1
+[19Jul2025 05:53:02.735] [Server thread/INFO] [superlord.prehistoricfauna.PrehistoricFauna/]: BOAT ENTITY: net.minecraft.network.syncher.SynchedEntityData@6e8e9f41
+[19Jul2025 05:55:16.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [The Soul Fortress]
+[19Jul2025 05:55:59.518] [Server thread/INFO] [superlord.prehistoricfauna.PrehistoricFauna/]: BOAT ENTITY: net.minecraft.network.syncher.SynchedEntityData@40dd5006
+[19Jul2025 05:56:44.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1370, y=68, z=590} BlockPos{x=-1371, y=66, z=590}
+[19Jul2025 05:56:47.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1384, y=68, z=594} BlockPos{x=-1385, y=66, z=595}
+[19Jul2025 05:56:47.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1384, y=68, z=594} BlockPos{x=-1385, y=66, z=595}
+[19Jul2025 05:56:49.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1390, y=69, z=599} BlockPos{x=-1389, y=67, z=599}
+[19Jul2025 05:56:49.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1390, y=69, z=599} BlockPos{x=-1389, y=67, z=599}
+[19Jul2025 05:56:49.093] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1391, y=69, z=600} BlockPos{x=-1389, y=67, z=599}
+[19Jul2025 05:57:19.365] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Jul2025 05:57:19.480] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Jul2025 05:57:19.573] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Jul2025 05:57:19.659] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Jul2025 05:57:19.759] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Jul2025 05:57:19.860] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Jul2025 05:58:48.210] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Jul2025 06:02:24.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 06:04:45.064] [Server thread/INFO] [superlord.prehistoricfauna.PrehistoricFauna/]: BOAT ENTITY: net.minecraft.network.syncher.SynchedEntityData@73e03770
+[19Jul2025 06:04:46.910] [Server thread/INFO] [superlord.prehistoricfauna.PrehistoricFauna/]: BOAT ENTITY: net.minecraft.network.syncher.SynchedEntityData@592afd3
+[19Jul2025 06:06:18.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 06:08:50.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 06:20:18.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 06:20:39.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved too quickly! -9.005993897301323,4.600000023841858,-0.7862800888301535
+[19Jul2025 06:21:15.010] [Server thread/INFO] [superlord.prehistoricfauna.PrehistoricFauna/]: BOAT ENTITY: net.minecraft.network.syncher.SynchedEntityData@2904b43b
+[19Jul2025 06:21:16.160] [Server thread/INFO] [superlord.prehistoricfauna.PrehistoricFauna/]: BOAT ENTITY: net.minecraft.network.syncher.SynchedEntityData@3f29aa7d
+[19Jul2025 06:21:20.061] [Server thread/INFO] [superlord.prehistoricfauna.PrehistoricFauna/]: BOAT ENTITY: net.minecraft.network.syncher.SynchedEntityData@3c9058b
+[19Jul2025 06:21:28.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [The Time Masheen]
+[19Jul2025 06:21:28.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [There's Always a T-Rex]
+[19Jul2025 06:21:56.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 06:22:07.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved wrongly!
+[19Jul2025 06:22:46.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 06:23:24.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=883, y=68, z=1205} BlockPos{x=884, y=68, z=1207}
+[19Jul2025 06:25:48.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 06:27:20.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! -8.999987781047821,4.0,-1.7533798638935423
+[19Jul2025 06:27:20.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved too quickly! -8.999987781047821,4.0,-1.7704460797110642
+[19Jul2025 06:30:08.526] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-34, y=13, z=0} BlockPos{x=-33, y=13, z=0}
+[19Jul2025 06:30:08.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-34, y=13, z=0} BlockPos{x=-33, y=13, z=0}
+[19Jul2025 06:50:27.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has completed the challenge [Return to Sender]
+[19Jul2025 06:53:11.222] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=97}
+[19Jul2025 06:53:11.227] [Worker-Main-79/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-57, z=102}
+[19Jul2025 06:53:12.315] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-57, z=102}
+[19Jul2025 06:53:12.315] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=97}
+[19Jul2025 06:53:36.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=577, y=64, z=1420} BlockPos{x=577, y=62, z=1420}
+[19Jul2025 06:53:36.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=577, y=64, z=1419} BlockPos{x=576, y=62, z=1419}
+[19Jul2025 06:53:36.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=577, y=64, z=1419} BlockPos{x=576, y=62, z=1419}
+[19Jul2025 06:53:36.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=577, y=64, z=1418} BlockPos{x=576, y=62, z=1419}
+[19Jul2025 06:57:46.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 06:58:33.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has completed the challenge [Cover Me in Debris]
+[19Jul2025 06:58:48.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has reached the goal [Pyrrhic Scapegoat]
+[19Jul2025 07:00:10.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [We're a Survival Game]
+[19Jul2025 07:00:27.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Technically Not Prehistory]
+[19Jul2025 07:00:41.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Plagiarism]
+[19Jul2025 07:03:59.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Someone Call Pest Control?]
+[19Jul2025 07:12:01.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plesiohadros (vehicle of zilasaur) moved wrongly! 0.37646627700439694
+[19Jul2025 07:12:01.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plesiohadros (vehicle of zilasaur) moved wrongly! 0.7899492058558053
+[19Jul2025 07:12:01.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plesiohadros (vehicle of zilasaur) moved wrongly! 1.1901439378585792
+[19Jul2025 07:12:01.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plesiohadros (vehicle of zilasaur) moved wrongly! 1.5647860469946409
+[19Jul2025 07:12:01.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plesiohadros (vehicle of zilasaur) moved wrongly! 1.9121052026188181
+[19Jul2025 07:12:01.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plesiohadros (vehicle of zilasaur) moved wrongly! 2.2424029219818067
+[19Jul2025 07:12:01.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plesiohadros (vehicle of zilasaur) moved wrongly! 2.563236668831223
+[19Jul2025 07:12:01.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plesiohadros (vehicle of zilasaur) moved wrongly! 2.8786620322621275
+[19Jul2025 07:12:01.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plesiohadros (vehicle of zilasaur) moved wrongly! 3.1783956958885256
+[19Jul2025 07:12:01.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plesiohadros (vehicle of zilasaur) moved wrongly! 3.4414047425972285
+[19Jul2025 07:12:01.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plesiohadros (vehicle of zilasaur) moved wrongly! 3.660685857242356
+[19Jul2025 07:12:58.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved too quickly! -8.999987781047821,4.0,-1.7830926985991482
+[19Jul2025 07:20:47.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 07:21:04.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 07:25:23.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 07:32:06.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 07:32:16.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 07:33:18.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has reached the goal [And so a Quest Begins!]
+[19Jul2025 07:36:17.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19Jul2025 07:36:18.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! 24.61249132817295,28.171710353486333,11.305161858339034
+[19Jul2025 07:36:43.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Covered in Moss]
+[19Jul2025 07:37:18.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! 10.611608154656153,39.17296791125966,8.002199271313657
+[19Jul2025 07:40:34.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2404ms or 48 ticks behind
+[19Jul2025 07:40:35.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! 41.87259017020142,-1.0574663405214721,-6.66027549356977
+[19Jul2025 07:41:14.125] [Worker-Main-41/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 07:41:14.126] [Worker-Main-41/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 07:41:20.055] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 07:41:20.056] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 07:45:29.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was killed by Cumulonimbus using magic
+[19Jul2025 07:45:29.207] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2880, 124, 1281) minecraft:overworld
+[19Jul2025 07:45:36.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by Cumulonimbus
+[19Jul2025 07:45:54.339] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 07:45:54.339] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 07:45:54.340] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 cast_time_ring
+[19Jul2025 07:45:54.340] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[19Jul2025 07:45:54.340] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 07:45:54.340] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 07:45:54.340] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 07:45:54.340] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 07:45:54.341] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 07:45:54.341] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 07:48:23.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
+[19Jul2025 07:55:34.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Triceratops
+[19Jul2025 07:55:34.725] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(784, 69, 331) prehistoricfauna:cretaceous
+[19Jul2025 07:56:39.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur fell from a high place
+[19Jul2025 07:59:32.300] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22, l='ServerLevel[world]', x=52.75, y=62.41, z=0.11] died, message: 'Villager was slain by Zombie'
+[19Jul2025 07:59:34.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! -13.19977226173421,5.449681180171723,-11.195528642468162
+[19Jul2025 07:59:47.542] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21, l='ServerLevel[world]', x=59.70, y=62.75, z=-3.13] died, message: 'Villager was slain by Zombie Villager'
+[19Jul2025 07:59:53.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! -12.070362666557102,-0.5186538630361639,-14.105342857905555
+[19Jul2025 08:00:01.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! -0.9883602799173339,-4.819297413910135,-17.20308367939191
+[19Jul2025 08:00:06.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! 3.295741549100697,-3.332360841999275,-18.21478022050242
+[19Jul2025 08:00:09.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! 7.098443977852451,-1.4349391509319958,-17.57186122743142
+[19Jul2025 08:04:17.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! 1.6980994412189148,15.219895355408454,-11.01253699350184
+[19Jul2025 08:05:28.372] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:05:28.373] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:05:28.373] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:05:28.373] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:05:28.373] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:11:12.286] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: CloudEntity['entity.legendary_monsters.cloud'/469562, l='ServerLevel[world]', x=857.50, y=77.00, z=1210.50]
+[19Jul2025 08:11:12.751] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/469564, l='ServerLevel[world]', x=859.50, y=77.00, z=1210.50]
+[19Jul2025 08:11:12.751] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/469565, l='ServerLevel[world]', x=856.50, y=77.00, z=1212.50]
+[19Jul2025 08:11:12.752] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/469566, l='ServerLevel[world]', x=856.50, y=77.00, z=1208.50]
+[19Jul2025 08:13:50.924] [Worker-Main-79/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[19Jul2025 08:14:08.144] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[19Jul2025 08:15:18.191] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: CloudEntity['entity.legendary_monsters.cloud'/474574, l='ServerLevel[world]', x=3027.50, y=120.00, z=1313.50]
+[19Jul2025 08:15:18.656] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/474582, l='ServerLevel[world]', x=3029.50, y=120.00, z=1313.50]
+[19Jul2025 08:15:18.656] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/474583, l='ServerLevel[world]', x=3026.50, y=120.00, z=1315.50]
+[19Jul2025 08:15:18.657] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/474584, l='ServerLevel[world]', x=3026.50, y=120.00, z=1311.50]
+[19Jul2025 08:16:08.255] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: CloudEntity['entity.legendary_monsters.cloud'/474822, l='ServerLevel[world]', x=3038.50, y=120.00, z=1301.50]
+[19Jul2025 08:16:08.758] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/474828, l='ServerLevel[world]', x=3040.50, y=120.00, z=1301.50]
+[19Jul2025 08:16:08.759] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/474829, l='ServerLevel[world]', x=3037.50, y=120.00, z=1303.50]
+[19Jul2025 08:16:08.759] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/474830, l='ServerLevel[world]', x=3037.50, y=120.00, z=1299.50]
+[19Jul2025 08:19:16.703] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: CloudEntity['entity.legendary_monsters.cloud'/475541, l='ServerLevel[world]', x=3035.50, y=83.00, z=1260.50]
+[19Jul2025 08:19:17.205] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/475549, l='ServerLevel[world]', x=3046.50, y=84.00, z=1257.50]
+[19Jul2025 08:19:17.205] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/475550, l='ServerLevel[world]', x=3043.50, y=84.00, z=1259.50]
+[19Jul2025 08:19:17.205] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/475551, l='ServerLevel[world]', x=3043.50, y=84.00, z=1255.50]
+[19Jul2025 08:19:49.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has reached the goal [Postmortal]
+[19Jul2025 08:19:57.411] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: CloudEntity['entity.legendary_monsters.cloud'/475977, l='ServerLevel[world]', x=3025.50, y=83.00, z=1248.50]
+[19Jul2025 08:19:57.905] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/475983, l='ServerLevel[world]', x=3027.50, y=83.00, z=1248.50]
+[19Jul2025 08:19:57.906] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/475984, l='ServerLevel[world]', x=3024.50, y=83.00, z=1250.50]
+[19Jul2025 08:19:57.906] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/475985, l='ServerLevel[world]', x=3024.50, y=83.00, z=1246.50]
+[19Jul2025 08:20:14.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was cursed by Maledictus
+[19Jul2025 08:20:14.455] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3021, 79, 1252) minecraft:overworld
+[19Jul2025 08:22:05.726] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:22:05.726] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:22:05.726] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:22:05.727] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:22:05.727] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:22:58.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved wrongly!
+[19Jul2025 08:23:58.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was cursed by Maledictus
+[19Jul2025 08:23:58.458] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3029, 78, 1262) minecraft:overworld
+[19Jul2025 08:24:19.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by Royal Draugr
+[19Jul2025 08:24:23.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved too quickly! -0.6196240338599637,-2.0336143504854505,-10.066391955210065
+[19Jul2025 08:24:56.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Maledictus
+[19Jul2025 08:24:56.903] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3041, 79, 1321) minecraft:overworld
+[19Jul2025 08:25:13.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was shot by Elite Draugr
+[19Jul2025 08:26:49.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Royal Draugr
+[19Jul2025 08:27:23.695] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:27:23.696] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:27:23.696] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 emerald_stoneplate_ring
+[19Jul2025 08:27:23.696] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[19Jul2025 08:27:23.696] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:27:23.696] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:27:23.697] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:27:23.697] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[19Jul2025 08:27:23.697] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:27:23.697] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:27:23.698] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:28:07.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Royal Draugr
+[19Jul2025 08:29:17.414] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:29:17.414] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:29:17.414] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:29:17.415] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:29:17.415] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:31:10.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was cursed by xUNIx10 's Magic
+[19Jul2025 08:31:10.709] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3027, 77, 1309) minecraft:overworld
+[19Jul2025 08:31:28.218] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:31:28.218] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:31:28.218] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:31:28.219] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:31:28.219] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:33:10.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Maledictus
+[19Jul2025 08:33:10.406] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3030, 78, 1250) minecraft:overworld
+[19Jul2025 08:33:19.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was cursed by xUNIx10 's Magic
+[19Jul2025 08:33:28.172] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:33:28.172] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:33:28.172] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:33:28.172] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:33:28.173] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:33:30.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was cursed by Maledictus
+[19Jul2025 08:33:30.505] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3033, 78, 1254) minecraft:overworld
+[19Jul2025 08:33:30.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was cursed by Maledictus
+[19Jul2025 08:33:30.506] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3030, 78, 1252) minecraft:overworld
+[19Jul2025 08:33:37.205] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:33:37.205] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:33:37.206] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 cast_time_ring
+[19Jul2025 08:33:37.206] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[19Jul2025 08:33:37.206] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:33:37.206] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:33:37.206] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:33:37.206] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:33:37.207] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:33:37.207] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[19Jul2025 08:33:37.207] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:33:41.168] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:33:41.169] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:33:41.169] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:33:41.169] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:33:41.169] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:33:44.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was cursed by xUNIx10 's Magic
+[19Jul2025 08:33:44.105] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3030, 78, 1259) minecraft:overworld
+[19Jul2025 08:33:51.676] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:33:51.676] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:33:51.676] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:33:51.677] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:33:51.677] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:34:18.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was cursed by Maledictus
+[19Jul2025 08:34:18.001] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3027, 78, 1260) minecraft:overworld
+[19Jul2025 08:34:18.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was cursed by Maledictus
+[19Jul2025 08:34:18.003] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3026, 78, 1254) minecraft:overworld
+[19Jul2025 08:35:04.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Royal Draugr
+[19Jul2025 08:35:06.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by Draugr
+[19Jul2025 08:36:14.372] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:36:14.372] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:36:14.372] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:36:14.373] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:36:14.373] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:36:15.205] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:36:15.206] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:36:15.206] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 emerald_stoneplate_ring
+[19Jul2025 08:36:15.206] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[19Jul2025 08:36:15.206] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:36:15.206] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:36:15.206] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:36:15.206] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:36:15.207] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:36:15.207] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[19Jul2025 08:36:15.207] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:36:22.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was cursed by Maledictus 's Magic
+[19Jul2025 08:36:22.162] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3031, 78, 1255) minecraft:overworld
+[19Jul2025 08:38:19.584] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:38:19.584] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:38:19.584] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:38:19.585] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:38:19.585] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:42:15.202] [Worker-Main-79/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 08:42:15.202] [Worker-Main-79/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 08:47:00.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur fell from a high place
+[19Jul2025 08:47:00.531] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2927, 97, 1391) minecraft:overworld
+[19Jul2025 08:48:23.824] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:48:23.824] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:48:23.825] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jul2025 08:48:23.825] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:48:23.825] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jul2025 08:49:50.005] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 lost connection: Disconnected
+[19Jul2025 08:49:50.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
+[19Jul2025 08:49:58.952] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur lost connection: Disconnected
+[19Jul2025 08:49:58.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur left the game
+[19Jul2025 08:50:07.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[19Jul2025 08:50:07.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Jul2025 08:50:07.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Jul2025 08:50:07.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Jul2025 08:50:07.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Jul2025 08:50:07.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/prehistoricfauna:cretaceous
+[19Jul2025 08:50:07.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/prehistoricfauna:jurassic
+[19Jul2025 08:50:07.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/prehistoricfauna:triassic
+[19Jul2025 08:50:07.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Jul2025 08:50:07.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Jul2025 08:50:07.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Jul2025 08:50:07.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cretaceous): All chunks are saved
+[19Jul2025 08:50:07.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (jurassic): All chunks are saved
+[19Jul2025 08:50:07.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (triassic): All chunks are saved
+[19Jul2025 08:50:07.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Jul2025 08:50:07.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Jul2025 08:50:07.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

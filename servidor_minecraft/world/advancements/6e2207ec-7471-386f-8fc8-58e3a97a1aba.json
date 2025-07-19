@@ -102,6 +102,7 @@
       "minecraft:grove": "2025-07-16 23:25:43 +0000",
       "minecraft:cold_ocean": "2025-07-17 07:47:38 +0000",
       "minecraft:forest": "2025-07-16 23:16:08 +0000",
+      "minecraft:lush_caves": "2025-07-19 04:40:14 +0000",
       "minecraft:deep_cold_ocean": "2025-07-17 07:15:01 +0000",
       "minecraft:frozen_ocean": "2025-07-16 23:34:13 +0000",
       "minecraft:deep_frozen_ocean": "2025-07-16 23:36:27 +0000",
@@ -549,6 +550,7 @@
       "mutton": "2025-07-18 05:14:28 +0000",
       "bread": "2025-07-16 23:41:44 +0000",
       "golden_apple": "2025-07-17 22:10:48 +0000",
+      "rotten_flesh": "2025-07-19 08:03:50 +0000",
       "salmon": "2025-07-17 00:04:20 +0000",
       "golden_carrot": "2025-07-18 05:54:59 +0000",
       "cooked_chicken": "2025-07-17 05:34:49 +0000",
@@ -597,8 +599,11 @@
       "minecraft:spider": "2025-07-16 23:22:22 +0000",
       "minecraft:creeper": "2025-07-17 22:20:16 +0000",
       "minecraft:evoker": "2025-07-18 09:55:26 +0000",
+      "minecraft:slime": "2025-07-19 04:33:05 +0000",
+      "minecraft:witch": "2025-07-19 04:51:30 +0000",
       "minecraft:cave_spider": "2025-07-17 22:09:33 +0000",
       "minecraft:stray": "2025-07-18 05:47:28 +0000",
+      "minecraft:enderman": "2025-07-19 03:50:32 +0000",
       "minecraft:zombie": "2025-07-16 22:43:56 +0000"
     },
     "done": false
@@ -1427,7 +1432,13 @@
   },
   "prehistoricfauna:prehistoricfauna/general/anti_lorax": {
     "criteria": {
-      "ginkgo": "2025-07-16 23:14:32 +0000"
+      "podozamites": "2025-07-19 05:50:23 +0000",
+      "dryophyllum": "2025-07-19 08:08:49 +0000",
+      "trochodendroides": "2025-07-19 05:19:44 +0000",
+      "ginkgo": "2025-07-16 23:14:32 +0000",
+      "taxus": "2025-07-19 05:43:00 +0000",
+      "schizolepidopsis": "2025-07-19 05:27:06 +0000",
+      "platanites": "2025-07-19 08:08:29 +0000"
     },
     "done": false
   },
@@ -3970,21 +3981,9 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
-    "criteria": {
-      "in_catacombs": "2025-07-19 01:38:08 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 01:15:22 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
-    "criteria": {
-      "has_feeding_upgrade": "2025-07-19 01:17:29 +0000"
     },
     "done": true
   },
@@ -4018,12 +4017,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-07-19 01:50:38 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 01:15:22 +0000"
@@ -4039,12 +4032,6 @@
   "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 01:15:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-07-19 01:45:15 +0000"
     },
     "done": true
   },
@@ -4201,6 +4188,792 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 01:15:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-07-19 01:17:29 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2025-07-19 01:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-19 01:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-07-19 01:50:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-07-19 03:56:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/trochodendroides_fence": {
+    "criteria": {
+      "has_planks": "2025-07-19 05:19:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-19 06:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-19 06:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-07-19 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/podozamites_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-19 05:51:04 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/warpaholic": {
+    "criteria": {
+      "cretaceous": "2025-07-19 05:03:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/trochodendroides_door": {
+    "criteria": {
+      "has_planks": "2025-07-19 05:19:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trochodendroides_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-19 05:19:58 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nether_boots": {
+    "criteria": {
+      "has_ratman_eye": "2025-07-19 04:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-19 03:54:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-19 03:54:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/trochodendroides_sign": {
+    "criteria": {
+      "has_planks": "2025-07-19 05:19:58 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/survival_game": {
+    "criteria": {
+      "thatch": "2025-07-19 07:00:10 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/blaze_helmet": {
+    "criteria": {
+      "has_ratman_eye": "2025-07-19 04:49:51 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nail_sword": {
+    "criteria": {
+      "has_iron_block": "2025-07-19 04:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/anzu_skeleton": {
+    "criteria": {
+      "has_fossil": "2025-07-19 06:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/claw_banner_pattern": {
+    "criteria": {
+      "has_banner_material": "2025-07-19 05:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tyrannosaurus_skeleton": {
+    "criteria": {
+      "has_fossil": "2025-07-19 06:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dakotaraptor_claw_scythe": {
+    "criteria": {
+      "has_drop": "2025-07-19 05:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/podozamites_sign": {
+    "criteria": {
+      "has_planks": "2025-07-19 05:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/trochodendroides_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-19 05:19:58 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/time_machine": {
+    "criteria": {
+      "cretaceous": "2025-07-19 05:03:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-19 06:45:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-07-19 04:09:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/trochodendroides_planks": {
+    "criteria": {
+      "has_logs": "2025-07-19 05:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-19 06:45:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/blaze_chestplate": {
+    "criteria": {
+      "has_ratman_eye": "2025-07-19 04:49:51 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/paladin_sword": {
+    "criteria": {
+      "has_ratman_eye": "2025-07-19 04:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-07-19 07:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/podozamites_button": {
+    "criteria": {
+      "has_planks": "2025-07-19 05:51:04 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/plagiarism": {
+    "criteria": {
+      "paleopage": "2025-07-19 07:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/goyocephale_skeleton": {
+    "criteria": {
+      "has_fossil": "2025-07-19 06:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-19 06:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/schizolepidopsis_wood": {
+    "criteria": {
+      "has_log": "2025-07-19 05:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-07-19 04:03:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-19 03:54:58 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/extinction_event": {
+    "criteria": {
+      "pinacosaurus": "2025-07-19 05:15:50 +0000",
+      "telmasaurus": "2025-07-19 05:14:55 +0000",
+      "velociraptor": "2025-07-19 05:14:54 +0000",
+      "liaoningosaurus": "2025-07-19 05:46:11 +0000",
+      "byronosaurus": "2025-07-19 06:42:43 +0000",
+      "pachycephalosaurus": "2025-07-19 07:26:01 +0000",
+      "udanoceratops": "2025-07-19 05:16:08 +0000",
+      "citipati": "2025-07-19 05:14:37 +0000",
+      "prehistoricfauna:ankylosaurus": "2025-07-19 07:40:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-19 03:54:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/psittacosaurus_skeleton": {
+    "criteria": {
+      "has_fossil": "2025-07-19 06:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paleopedia": {
+    "criteria": {
+      "has_page": "2025-07-19 07:00:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nether_chestplate": {
+    "criteria": {
+      "has_ratman_eye": "2025-07-19 04:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-19 04:44:48 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nail_glaive": {
+    "criteria": {
+      "has_iron_block": "2025-07-19 04:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-07-19 08:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-19 06:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-19 06:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-19 04:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/podozamites_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-19 05:51:04 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
+    "criteria": {
+      "requirement": "2025-07-19 04:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/podozamites_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-19 05:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-19 06:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-19 06:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/saurosuchus_skeleton": {
+    "criteria": {
+      "has_fossil": "2025-07-19 06:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/podozamites_door": {
+    "criteria": {
+      "has_planks": "2025-07-19 05:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-07-19 04:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_large_sauropod_meat": {
+    "criteria": {
+      "has_meat": "2025-07-19 06:03:35 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/blaze_leggings": {
+    "criteria": {
+      "has_ratman_eye": "2025-07-19 04:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/protoceratops_skeleton": {
+    "criteria": {
+      "has_fossil": "2025-07-19 06:37:53 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/looting_like_year": {
+    "criteria": {
+      "djadochta_ruined_settlement": "2025-07-19 07:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/trochodendroides_slab": {
+    "criteria": {
+      "has_planks": "2025-07-19 05:19:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stegosaurus_skeleton": {
+    "criteria": {
+      "has_fossil": "2025-07-19 06:37:53 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nether_leggings": {
+    "criteria": {
+      "has_ratman_eye": "2025-07-19 04:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/thatch_slab": {
+    "criteria": {
+      "has_moss": "2025-07-19 07:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/liaoningosaurus_skeleton": {
+    "criteria": {
+      "has_fossil": "2025-07-19 06:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 04:41:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/fossil_crate": {
+    "criteria": {
+      "has_fossil": "2025-07-19 06:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/triceratops_skeleton": {
+    "criteria": {
+      "has_fossil": "2025-07-19 06:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_small_marginocephalian_meat": {
+    "criteria": {
+      "has_meat": "2025-07-19 07:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-19 03:54:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ischigualastia_skeleton": {
+    "criteria": {
+      "has_fossil": "2025-07-19 06:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/podozamites_fence": {
+    "criteria": {
+      "has_planks": "2025-07-19 05:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/trochodendroides_wood": {
+    "criteria": {
+      "has_log": "2025-07-19 05:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/podozamites_slab": {
+    "criteria": {
+      "has_planks": "2025-07-19 05:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_large_ornithischian_meat": {
+    "criteria": {
+      "has_meat": "2025-07-19 07:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-19 03:54:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/schizolepidopsis_planks": {
+    "criteria": {
+      "has_logs": "2025-07-19 05:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-19 06:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ankylosaurus_skeleton": {
+    "criteria": {
+      "has_fossil": "2025-07-19 06:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-07-19 08:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-19 06:45:15 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/intrepid_interloper": {
+    "criteria": {
+      "hell_creek": "2025-07-19 07:23:59 +0000",
+      "djadochta_arroyo": "2025-07-19 05:10:40 +0000",
+      "yixian_snowy_forest": "2025-07-19 05:24:06 +0000",
+      "yixian_forest": "2025-07-19 05:26:00 +0000",
+      "hell_creek_hills": "2025-07-19 07:24:19 +0000",
+      "hell_creek_river": "2025-07-19 07:23:52 +0000",
+      "djadochta_dunes": "2025-07-19 05:11:57 +0000",
+      "hell_creek_redwoods": "2025-07-19 07:43:38 +0000",
+      "yixian_snowy_mountains": "2025-07-19 05:25:22 +0000",
+      "djadochta_alluvial_plains": "2025-07-19 05:03:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-19 03:54:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trochodendroides_button": {
+    "criteria": {
+      "has_planks": "2025-07-19 05:19:58 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/pest_control": {
+    "criteria": {
+      "killSS": "2025-07-19 07:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/podozamites_wood": {
+    "criteria": {
+      "has_log": "2025-07-19 05:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/thatch_stairs": {
+    "criteria": {
+      "has_moss": "2025-07-19 07:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spiral_banner_pattern": {
+    "criteria": {
+      "has_banner_material": "2025-07-19 06:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-19 03:54:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/podozamites_planks": {
+    "criteria": {
+      "has_logs": "2025-07-19 05:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/loam": {
+    "criteria": {
+      "has_clay": "2025-07-19 06:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_large_marginocephalian_meat": {
+    "criteria": {
+      "has_meat": "2025-07-19 05:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/ankylosaurus_helmet": {
+    "criteria": {
+      "has_ankylosaurus_scute": "2025-07-19 05:46:25 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/blaze_boots": {
+    "criteria": {
+      "has_ratman_eye": "2025-07-19 04:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/taxus_planks": {
+    "criteria": {
+      "has_logs": "2025-07-19 05:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-19 03:54:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-19 04:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_large_thyreophoran_meat": {
+    "criteria": {
+      "has_meat": "2025-07-19 05:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-19 06:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-19 04:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-19 08:45:17 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/pyrrhic_scapegoat": {
+    "criteria": {
+      "killed_something": "2025-07-19 06:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-19 06:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/thatch_carpet": {
+    "criteria": {
+      "has_hide": "2025-07-19 07:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 04:41:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dongbeititan_skeleton": {
+    "criteria": {
+      "has_fossil": "2025-07-19 06:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trochodendroides_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-19 05:19:58 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/master_paleontologist": {
+    "criteria": {
+      "allosaurus_skeleton": "2025-07-19 07:15:12 +0000",
+      "allosaurus_skull": "2025-07-19 06:38:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/ceratosaurus_skeleton": {
+    "criteria": {
+      "has_fossil": "2025-07-19 06:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_small_reptile_meat": {
+    "criteria": {
+      "has_meat": "2025-07-19 05:14:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ammonite_block": {
+    "criteria": {
+      "has_shells": "2025-07-19 06:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/velociraptor_skeleton": {
+    "criteria": {
+      "has_fossil": "2025-07-19 06:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-19 06:45:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nether_helmet": {
+    "criteria": {
+      "has_ratman_eye": "2025-07-19 04:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/taxus_wood": {
+    "criteria": {
+      "has_log": "2025-07-19 05:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-19 04:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hardened_silt": {
+    "criteria": {
+      "has_stone": "2025-07-19 06:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/herrerasaurus_skeleton": {
+    "criteria": {
+      "has_fossil": "2025-07-19 06:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-19 06:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-19 06:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 04:41:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/banner_from_thatch": {
+    "criteria": {
+      "has_hide": "2025-07-19 07:00:10 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/cretaceous_time_travel": {
+    "criteria": {
+      "cretaceous": "2025-07-19 05:03:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_small_thyreophoran_meat": {
+    "criteria": {
+      "has_meat": "2025-07-19 05:46:13 +0000"
     },
     "done": true
   },
