@@ -146,3 +146,144 @@
 [19Jul2025 00:32:18.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
 [19Jul2025 00:32:20.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
 [19Jul2025 00:32:20.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[19Jul2025 00:32:46.454] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@aafd01d[id=<null>,name=Wacht_Of_Doom,properties={},legacy=false] (/127.177.169.2:56621) lost connection: Disconnected
+[19Jul2025 00:32:50.161] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:34007] logged in with entity id 89681 at (-307.3416141253427, 67.0, -127.83846489366859)
+[19Jul2025 00:32:50.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
+[19Jul2025 00:32:52.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[19Jul2025 00:32:52.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[19Jul2025 00:32:59.816] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:40655] logged in with entity id 89753 at (-307.3416141253427, 67.0, -127.83846489366859)
+[19Jul2025 00:32:59.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
+[19Jul2025 00:33:02.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[19Jul2025 00:33:02.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[19Jul2025 00:33:18.355] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@44443631[id=<null>,name=Wacht_Of_Doom,properties={},legacy=false] (/127.177.169.2:54297) lost connection: Disconnected
+[19Jul2025 00:33:33.955] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@634464ea[id=<null>,name=Wacht_Of_Doom,properties={},legacy=false] (/127.177.169.2:42335) lost connection: Disconnected
+[19Jul2025 00:33:35.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/78047, l='ServerLevel[world]', x=1390.50, y=64.00, z=1190.50] died, message: 'Fletcher was killed by zilasaur using magic'
+[19Jul2025 00:33:44.066] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:44749] logged in with entity id 90151 at (-307.3416141253427, 67.0, -127.83846489366859)
+[19Jul2025 00:33:44.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
+[19Jul2025 00:33:50.006] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[19Jul2025 00:33:50.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[19Jul2025 00:33:58.162] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:56577] logged in with entity id 90193 at (-307.3416141253427, 67.0, -127.83846489366859)
+[19Jul2025 00:33:58.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
+[19Jul2025 00:34:03.862] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[19Jul2025 00:34:03.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[19Jul2025 00:34:11.262] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:48785] logged in with entity id 90306 at (-307.3416141253427, 67.0, -127.83846489366859)
+[19Jul2025 00:34:11.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
+[19Jul2025 00:34:15.363] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[19Jul2025 00:34:15.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[19Jul2025 00:34:21.413] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:55739] logged in with entity id 90363 at (-307.3416141253427, 67.0, -127.83846489366859)
+[19Jul2025 00:34:21.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
+[19Jul2025 00:34:25.654] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[19Jul2025 00:34:25.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[19Jul2025 00:34:41.153] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@329be891[id=<null>,name=Wacht_Of_Doom,properties={},legacy=false] (/127.177.169.2:57151) lost connection: Disconnected
+[19Jul2025 00:34:53.155] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 lost connection: Disconnected
+[19Jul2025 00:34:53.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
+[19Jul2025 00:34:59.698] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@162c44fc[id=<null>,name=Wacht_Of_Doom,properties={},legacy=false] (/127.177.169.2:36419) lost connection: Disconnected
+[19Jul2025 00:35:07.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:36639] logged in with entity id 90521 at (-307.3416141253427, 67.0, -127.83846489366859)
+[19Jul2025 00:35:07.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
+[19Jul2025 00:35:09.503] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[19Jul2025 00:35:09.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[19Jul2025 00:35:17.496] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f80c96e[id=<null>,name=Wacht_Of_Doom,properties={},legacy=false] (/127.177.169.2:49173) lost connection: Disconnected
+[19Jul2025 00:35:31.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:41099] logged in with entity id 90804 at (-307.3416141253427, 67.0, -127.83846489366859)
+[19Jul2025 00:35:31.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
+[19Jul2025 00:35:37.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[19Jul2025 00:35:37.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[19Jul2025 00:35:56.852] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@56f5fc07[id=<null>,name=Wacht_Of_Doom,properties={},legacy=false] (/127.177.169.2:45953) lost connection: Disconnected
+[19Jul2025 00:36:01.004] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:38677] logged in with entity id 91165 at (-307.3416141253427, 67.0, -127.83846489366859)
+[19Jul2025 00:36:01.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
+[19Jul2025 00:36:04.907] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[19Jul2025 00:36:04.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[19Jul2025 00:36:10.702] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:43265] logged in with entity id 91442 at (-307.3416141253427, 67.0, -127.83846489366859)
+[19Jul2025 00:36:10.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
+[19Jul2025 00:36:15.658] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[19Jul2025 00:36:15.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[19Jul2025 00:36:25.396] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@35def750[id=<null>,name=Wacht_Of_Doom,properties={},legacy=false] (/127.177.169.2:57927) lost connection: Disconnected
+[19Jul2025 00:36:36.147] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14221ace[id=<null>,name=Wacht_Of_Doom,properties={},legacy=false] (/127.177.169.2:47479) lost connection: Disconnected
+[19Jul2025 00:36:44.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:54067] logged in with entity id 91771 at (-307.5208653249513, 67.0, -127.7320288066639)
+[19Jul2025 00:36:44.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
+[19Jul2025 00:36:48.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[19Jul2025 00:36:48.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[19Jul2025 00:36:54.408] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:56961] logged in with entity id 92038 at (-307.5208653249513, 67.0, -127.7320288066639)
+[19Jul2025 00:36:54.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
+[19Jul2025 00:36:58.055] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[19Jul2025 00:36:58.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[19Jul2025 00:37:11.950] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3f326569[id=<null>,name=Wacht_Of_Doom,properties={},legacy=false] (/127.177.169.2:44149) lost connection: Disconnected
+[19Jul2025 00:37:18.247] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@13a0399a[id=<null>,name=Wacht_Of_Doom,properties={},legacy=false] (/127.177.169.2:54969) lost connection: Disconnected
+[19Jul2025 00:37:41.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xUNIx10[/127.211.36.91:46935] logged in with entity id 92508 at (-307.1014450298925, 67.0, -123.90517618896644)
+[19Jul2025 00:37:41.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 joined the game
+[19Jul2025 00:37:42.929] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2cf8e6f6[id=<null>,name=Wacht_Of_Doom,properties={},legacy=false] (/127.177.169.2:45105) lost connection: Disconnected
+[19Jul2025 00:37:58.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:58683] logged in with entity id 92827 at (-307.6265688951208, 67.0, -127.09984947427674)
+[19Jul2025 00:37:58.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
+[19Jul2025 00:38:04.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[19Jul2025 00:38:04.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[19Jul2025 00:38:20.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:58483] logged in with entity id 92971 at (-307.6265688951208, 67.0, -127.09984947427674)
+[19Jul2025 00:38:20.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
+[19Jul2025 00:38:46.703] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[19Jul2025 00:38:46.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[19Jul2025 00:38:52.915] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:58039] logged in with entity id 93132 at (-307.6265688951208, 67.0, -127.09984947427674)
+[19Jul2025 00:38:52.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
+[19Jul2025 00:38:56.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[19Jul2025 00:38:56.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[19Jul2025 00:39:06.413] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:39275] logged in with entity id 93226 at (-307.6265688951208, 67.0, -127.09984947427674)
+[19Jul2025 00:39:06.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
+[19Jul2025 00:39:06.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[19Jul2025 00:39:06.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[19Jul2025 00:39:12.655] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 lost connection: Disconnected
+[19Jul2025 00:39:12.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
+[19Jul2025 00:39:22.655] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:49581] logged in with entity id 93289 at (-307.6265688951208, 67.0, -127.09984947427674)
+[19Jul2025 00:39:22.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
+[19Jul2025 00:39:36.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[19Jul2025 00:39:36.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[19Jul2025 00:39:45.997] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@341b1bb9[id=<null>,name=Wacht_Of_Doom,properties={},legacy=false] (/127.177.169.2:33759) lost connection: Disconnected
+[19Jul2025 00:41:17.057] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xUNIx10[/127.211.36.91:44423] logged in with entity id 93953 at (-308.17998042715953, 67.0, -122.38699750633162)
+[19Jul2025 00:41:17.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 joined the game
+[19Jul2025 00:43:32.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 00:43:40.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[19Jul2025 00:44:10.456] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6005ca89[id=<null>,name=Wacht_Of_Doom,properties={},legacy=false] (/127.177.169.2:57861) lost connection: Disconnected
+[19Jul2025 00:44:30.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:55183] logged in with entity id 95911 at (-307.6265688951208, 67.0, -127.09984947427674)
+[19Jul2025 00:44:30.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
+[19Jul2025 00:44:43.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[19Jul2025 00:44:43.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[19Jul2025 00:45:09.554] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@17154a9b[id=<null>,name=Wacht_Of_Doom,properties={},legacy=false] (/127.177.169.2:60035) lost connection: Disconnected
+[19Jul2025 00:46:25.860] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:44143] logged in with entity id 96796 at (-307.6265688951208, 67.0, -127.09984947427674)
+[19Jul2025 00:46:25.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
+[19Jul2025 00:46:32.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[19Jul2025 00:46:32.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[19Jul2025 00:47:08.256] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2e8865aa[id=<null>,name=Wacht_Of_Doom,properties={},legacy=false] (/127.177.169.2:41271): Took too long to log in
+[19Jul2025 00:47:08.257] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e8865aa[id=<null>,name=Wacht_Of_Doom,properties={},legacy=false] (/127.177.169.2:41271) lost connection: Took too long to log in
+[19Jul2025 00:47:08.303] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jul2025 00:47:24.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:32869] logged in with entity id 97320 at (-307.6265688951208, 67.0, -127.09984947427674)
+[19Jul2025 00:47:24.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
+[19Jul2025 00:47:55.003] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[19Jul2025 00:47:55.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[19Jul2025 00:47:55.052] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jul2025 00:48:03.766] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:54925] logged in with entity id 97694 at (-307.6265688951208, 67.0, -127.09984947427674)
+[19Jul2025 00:48:03.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
+[19Jul2025 00:48:15.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[19Jul2025 00:48:15.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[19Jul2025 00:48:28.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doom[/127.177.169.2:48207] logged in with entity id 97781 at (-307.6265688951208, 67.0, -127.09984947427674)
+[19Jul2025 00:48:28.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom joined the game
+[19Jul2025 00:48:31.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom was slain by xUNIx10
+[19Jul2025 00:48:31.553] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-308, 67, -128) minecraft:overworld
+[19Jul2025 00:48:48.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doom lost connection: Disconnected
+[19Jul2025 00:48:48.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doom left the game
+[19Jul2025 00:50:11.206] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doomm[/127.177.169.2:45773] logged in with entity id 99167 at (-45.5, 66.0, -33.5)
+[19Jul2025 00:50:11.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doomm joined the game
+[19Jul2025 00:50:52.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doomm has made the advancement [Alex's Mobs]
+[19Jul2025 00:53:39.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doomm moved too quickly! -10.100931124768863,-0.7531999805212024,0.8058712576155926
+[19Jul2025 00:53:44.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doomm lost connection: Disconnected
+[19Jul2025 00:53:44.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doomm left the game
+[19Jul2025 00:54:40.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur lost connection: Disconnected
+[19Jul2025 00:54:40.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur left the game
+[19Jul2025 00:54:49.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has completed the challenge [It's Purple!]
+[19Jul2025 00:55:05.095] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@50500cc4[id=<null>,name=zilasaur,properties={},legacy=false] (/127.211.36.91:59747) lost connection: Disconnected
+[19Jul2025 00:56:14.603] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doomm[/127.177.169.2:49183] logged in with entity id 102978 at (-305.21261407572695, 67.41999998688698, -126.74121815116379)
+[19Jul2025 00:56:14.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doomm joined the game
+[19Jul2025 00:56:21.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doomm was slain by Dread Hound
+[19Jul2025 00:56:21.702] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-306, 67, -127) minecraft:overworld
+[19Jul2025 00:56:22.002] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doomm lost connection: Disconnected
+[19Jul2025 00:56:22.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doomm left the game
+[19Jul2025 00:56:52.548] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6037d2f1[id=<null>,name=zilasaur,properties={},legacy=false] (/127.211.36.91:47927) lost connection: Disconnected
+[19Jul2025 00:57:00.858] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zilasaur[/127.211.36.91:44219] logged in with entity id 103336 at (1017.8461629291415, 74.0, 870.3000000119209)
+[19Jul2025 00:57:00.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur joined the game
+[19Jul2025 00:59:32.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has reached the goal [New Age Librarian]
+[19Jul2025 01:00:22.701] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/103443, l='ServerLevel[world]', x=1013.80, y=63.50, z=957.07] died, message: 'Villager was slain by zilasaur'

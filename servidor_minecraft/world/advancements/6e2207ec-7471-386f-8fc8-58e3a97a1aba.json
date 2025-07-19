@@ -3903,18 +3903,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-07-19 00:01:14 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/abyssal_amethyst": {
-    "criteria": {
-      "has_item": "2025-07-18 23:49:59 +0000"
-    },
-    "done": true
-  },
   "aquamirae:adventure/obtain_anglers_fang": {
     "criteria": {
       "anglers_fang": "2025-07-18 22:59:44 +0000"
@@ -3933,6 +3921,24 @@
     },
     "done": true
   },
+  "aquamirae:recipes/abyssal_amethyst": {
+    "criteria": {
+      "has_item": "2025-07-18 23:49:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-07-18 23:50:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-07-19 00:01:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-07-19 00:01:14 +0000"
@@ -3945,9 +3951,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
+  "minecraft:recipes/tools/lead": {
     "criteria": {
-      "has_prismarine_crystals": "2025-07-18 23:50:07 +0000"
+      "has_slime_ball": "2025-07-19 00:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-19 00:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-07-19 00:54:12 +0000"
     },
     "done": true
   },
