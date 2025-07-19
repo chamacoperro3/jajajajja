@@ -303,3 +303,9 @@
 [19Jul2025 01:21:33.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved wrongly!
 [19Jul2025 01:37:06.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
 [19Jul2025 01:38:08.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Dungeon Delving]
+[19Jul2025 01:50:43.954] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 lost connection: Disconnected
+[19Jul2025 01:50:43.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
+[19Jul2025 01:53:37.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xUNIx10[/127.211.36.91:51045] logged in with entity id 129561 at (-840.6931314792294, 7.0, 42.49712973521396)
+[19Jul2025 01:53:37.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 joined the game
+[19Jul2025 01:53:50.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was impaled on a stalagmite
+[19Jul2025 01:53:50.230] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-793, -18, 101) minecraft:overworld
