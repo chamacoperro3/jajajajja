@@ -286,3 +286,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [19Jul2025 03:15:21.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doommmm left the game
 [19Jul2025 03:18:18.620] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Dom[/127.177.169.2:58521] logged in with entity id 3061 at (-44.5, 78.0, -38.5)
 [19Jul2025 03:18:18.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Dom joined the game
+[19Jul2025 03:20:42.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Dom was slain by Spider
+[19Jul2025 03:20:42.140] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-267, 65, -122) minecraft:overworld
+[19Jul2025 03:23:03.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Dom lost connection: Disconnected
+[19Jul2025 03:23:03.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Dom left the game
+[19Jul2025 03:24:56.670] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Dmm[/127.177.169.2:36889] logged in with entity id 4411 at (-38.5, 77.0, -38.5)
+[19Jul2025 03:24:56.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Dmm joined the game
+[19Jul2025 03:27:41.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Dmm lost connection: Disconnected
+[19Jul2025 03:27:41.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Dmm left the game
+[19Jul2025 03:28:20.166] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6333a9eb[id=<null>,name=Wacht_Of_Dmm,properties={},legacy=false] (/127.177.169.2:50283) lost connection: Disconnected
