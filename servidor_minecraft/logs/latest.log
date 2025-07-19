@@ -276,3 +276,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [19Jul2025 02:43:45.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doommm has made the advancement [Getting an Upgrade]
 [19Jul2025 02:47:58.823] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doommm lost connection: Disconnected
 [19Jul2025 02:47:58.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doommm left the game
+[19Jul2025 02:55:07.317] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e67f93b[id=<null>,name=Wacht_Of_Doommm,properties={},legacy=false] (/127.177.169.2:48855) lost connection: Disconnected
