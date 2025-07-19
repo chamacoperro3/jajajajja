@@ -270,3 +270,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [19Jul2025 02:32:36.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doomm joined the game
 [19Jul2025 02:32:38.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doomm lost connection: Disconnected
 [19Jul2025 02:32:38.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doomm left the game
+[19Jul2025 02:40:57.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wacht_Of_Doommm[/127.177.169.2:57609] logged in with entity id 974 at (-42.5, 73.0, -21.5)
+[19Jul2025 02:40:57.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doommm joined the game
+[19Jul2025 02:42:44.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doommm has made the advancement [Stone Age]
+[19Jul2025 02:43:45.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doommm has made the advancement [Getting an Upgrade]
+[19Jul2025 02:47:58.823] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wacht_Of_Doommm lost connection: Disconnected
+[19Jul2025 02:47:58.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wacht_Of_Doommm left the game
