@@ -13,3 +13,14 @@
 [20Jul2025 01:12:53.673] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@22cf0cc9[id=<null>,name=xUNIx10,properties={},legacy=false] (/127.211.36.91:39715) lost connection: Disconnected
 [20Jul2025 01:13:01.250] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xUNIx10[/127.211.36.91:54639] logged in with entity id 28221 at (706.1673995506407, 65.00133597911214, 85.41103864324204)
 [20Jul2025 01:13:01.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 joined the game
+[20Jul2025 01:16:17.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! -7.953239016374482,-1.3851642504727408,-12.065459757652786
+[20Jul2025 01:16:20.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 was kicked for floating too long!
+[20Jul2025 01:16:20.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 lost connection: Flying is not enabled on this server
+[20Jul2025 01:16:20.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
+[20Jul2025 01:16:28.797] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xUNIx10[/127.211.36.91:44917] logged in with entity id 29435 at (769.6140613357717, 65.0942556413751, 24.70084200717619)
+[20Jul2025 01:16:28.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 joined the game
+[20Jul2025 01:21:57.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 lost connection: Disconnected
+[20Jul2025 01:21:57.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
+[20Jul2025 01:22:31.373] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7496c299[id=<null>,name=xUNIx10,properties={},legacy=false] (/127.211.36.91:48511) lost connection: Disconnected
+[20Jul2025 01:22:56.938] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xUNIx10[/127.211.36.91:57617] logged in with entity id 31304 at (858.1371210051335, 72.0, 1212.6117143779086)
+[20Jul2025 01:22:56.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 joined the game
