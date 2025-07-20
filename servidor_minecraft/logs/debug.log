@@ -2791,3 +2791,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Jul2025 00:53:03.833] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} 16 258 258 VisualFallingBlockEntity['Falling Netherrack'/23701, l='ServerLevel[world]', x=16.50, y=15.00, z=258.50]
 [20Jul2025 00:53:08.485] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:basalt}[axis=y] 15 267 267 VisualFallingBlockEntity['Falling Basalt'/23732, l='ServerLevel[world]', x=15.50, y=14.00, z=267.50]
 [20Jul2025 00:53:08.487] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:basalt}[axis=y] 15 265 265 VisualFallingBlockEntity['Falling Basalt'/23733, l='ServerLevel[world]', x=15.50, y=15.00, z=265.50]
+[20Jul2025 00:57:02.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jul2025 00:57:02.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jul2025 01:02:02.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jul2025 01:02:02.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
