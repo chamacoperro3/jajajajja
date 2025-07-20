@@ -1,2 +1,5 @@
 [20Jul2025 00:15:59.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! 5.394525876321495,1.2590058303936758,-18.401470497264654
 [20Jul2025 00:16:35.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! -16.54611595900542,7.563983331071427,-2.5006681331365144
+[20Jul2025 00:33:48.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2472ms or 49 ticks behind
+[20Jul2025 00:34:20.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! 15.779601696498311,-5.561713864596108,-6.839373111567731
+[20Jul2025 00:34:31.636] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
