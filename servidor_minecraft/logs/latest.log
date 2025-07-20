@@ -39,3 +39,5 @@
 [20Jul2025 01:31:01.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! -10.852465977075667,4.0901187733578865,-13.963870431223086
 [20Jul2025 01:33:17.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! 0.6995114218855178,0.24181321654842236,-17.966873636549963
 [20Jul2025 01:33:33.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! 7.672236377062404,-5.425850531702878,-15.816713024593298
+[20Jul2025 02:05:09.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved wrongly!
+[20Jul2025 02:06:01.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved wrongly!
