@@ -3396,3 +3396,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Jul2025 02:02:26.685] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 839 1208 1208 VisualFallingBlockEntity['Falling Stone'/53625, l='ServerLevel[world]', x=839.50, y=66.00, z=1208.50]
 [20Jul2025 02:05:09.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved wrongly!
 [20Jul2025 02:06:01.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved wrongly!
+[20Jul2025 02:06:28.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved wrongly!
+[20Jul2025 02:07:02.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jul2025 02:07:02.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jul2025 02:09:15.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved wrongly!
+[20Jul2025 02:11:52.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 lost connection: Disconnected
+[20Jul2025 02:11:52.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
+[20Jul2025 02:11:56.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[20Jul2025 02:11:56.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Jul2025 02:11:56.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Jul2025 02:11:56.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Jul2025 02:11:56.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Jul2025 02:11:56.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Jul2025 02:11:56.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/prehistoricfauna:cretaceous
+[20Jul2025 02:11:56.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Jul2025 02:11:56.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/prehistoricfauna:jurassic
+[20Jul2025 02:11:56.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/prehistoricfauna:triassic
+[20Jul2025 02:11:56.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jul2025 02:11:56.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jul2025 02:11:56.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Jul2025 02:11:56.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Jul2025 02:11:56.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cretaceous): All chunks are saved
+[20Jul2025 02:11:56.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Jul2025 02:11:56.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (jurassic): All chunks are saved
+[20Jul2025 02:11:56.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (triassic): All chunks are saved
+[20Jul2025 02:11:56.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20Jul2025 02:11:56.676] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[20Jul2025 02:11:57.081] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
